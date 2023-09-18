@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"  >
+  <channel>
+    <title>VK - Технологии, которые объединяют / Статьи</title>
+    <link>https://habr.com/ru/companies/vk/articles/</link>
+    <description><![CDATA[2 730 статей от авторов компании VK]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habr.com</managingEditor>
+    <generator>habr.com</generator>
+    <pubDate>Mon, 18 Sep 2023 17:29:49 GMT</pubDate>
+    
+      <image>
+        <link>https://habr.com/ru/</link>
+        <url>https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png</url>
+        <title>Хабр</title>
+      </image>
+              <item>
+      <title><![CDATA[Курс молодого стажёра: как прошла стажировка в VK в бизнес-юните СМБ]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/756972/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/756972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Всем привет! Меня зовут Лена, я стажёр DevRel в команде VK СМБ. Здесь я занимаюсь развитием IT-сообществ, техническим пиаром и внутренними коммуникациями. Расскажу о своём опыте стажировки в бизнес-юните VK СМБ, а также об опыте моих коллег. <br><br>Наши стажёры Илья Катков, Полина Рыбина, Игорь Ким, Влад Хвесюк, Леша Киселёв, Саша Васильев, Катя Горланова, Настя Мартыничева, Георгий Сухоруков, Катя Пинаева, Настя Тернюк, Женя Терличенко и Нонна Боброва не только поделятся впечатлениями о своей стажировке, но и дадут советы тем, кто будет участвовать в наборах в следующем году. </p><p></p> <a href="https://habr.com/ru/articles/756972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Mon, 18 Sep 2023 08:20:11 GMT</pubDate>
+      <dc:creator>lbokach</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[стажировка в it]]></category><category><![CDATA[стажировка в vk]]></category><category><![CDATA[стажер]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Разработка систем генеративного ИИ на базе ML Platform: создаем конкурента ChatGPT без миллионных инвестиций]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/761092/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/761092/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/kb/_3/bo/kb_3bo384mw20l79bcyvsy5cjd4.jpeg"><br>
+<br>
+2023-й — однозначно год генеративного искусственного интеллекта и сервисов на его основе, которые используют в разных кейсах и сценариях. Но даже при этом для многих сфера генеративного ИИ остается на уровне пользовательского интереса. Это упущение, ведь потенциал GPT-моделей и им подобных не ограничен поиском ответов на классические вопросы и даже ассистированием в процессе разработки. А их создание не относится к числу нерешаемых задач тысячелетия. GPT — технология, которую можно приручить, и это проще, чем кажется.<br> <a href="https://habr.com/ru/articles/761092/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Fri, 15 Sep 2023 08:46:37 GMT</pubDate>
+      <dc:creator>volinski</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Искусственный интеллект]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[GPT]]></category><category><![CDATA[ИИ]]></category><category><![CDATA[генеративный ИИ]]></category><category><![CDATA[ML]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Влияем на развитие продукта с помощью техподдержки: что вы узнаете на новом бесплатном курсе VK Education]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/761000/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/761000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет, Хабр! Меня зовут Руслан Рахимкулов, я руководитель направления технической поддержки клиентов в VK Tech и ведущий преподаватель онлайн-курса <a href="https://education.vk.company/program/219?utm_source=pr&amp;utm_medium=pr&amp;utm_campaign=technical-support-sept-23#whomText"><u>«Техническая поддержка»</u></a>. После того, как мы &nbsp;<a href="https://habr.com/ru/companies/vk/news/754534/"><u>рассказали</u></a> о запуске осенних образовательных программ VK Education, к нам стали обращаться с разными вопросами о том, как будет организован курс, чему студенты смогут научиться и как полученные знания и навыки помогут им в будущей карьере. В этом посте я решил рассказать обо всём подробнее.</p><p>Курс бесплатный, но количество мест ограничено и, чтобы на него попасть, нужно пройти предварительный отбор. Заявку на поступление можно подать <a href="https://education.vk.company/program/219?utm_source=pr&amp;utm_medium=pr&amp;utm_campaign=technical-support-sept-23#whomText"><u>на сайте</u></a> <strong>до 29 сентября </strong>включительно, а занятия начнутся <strong>10 октября </strong>и продлятся 1 семестр.&nbsp;</p><p>Курс подойдет новичкам в IT, дополнительным плюсом на вступительных испытаниях станет владение одним из языков программирования. Будет неплохо, если вы уже разбираетесь в технологиях – например, понимаете, чем отличается роутер от маршрутизатора, что такое серверы, базы данных и т.п. На <a href="https://education.vk.company/program/219?utm_source=pr&amp;utm_medium=pr&amp;utm_campaign=technical-support-sept-23#whomText"><u>сайте</u></a> есть список рекомендованных материалов, которые помогут подготовиться к тестированию и уверенному началу обучения на курсе.&nbsp;</p><p>Для начала расскажу немного с своём опыте, а потом перейду к деталям о программе курса. </p><p></p> <a href="https://habr.com/ru/articles/761000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 14 Sep 2023 10:47:39 GMT</pubDate>
+      <dc:creator>RRRakhimkulov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[DevOps]]></category>
+      <category><![CDATA[стажировка в вк]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Пять подходов к созданию ad-hoc-датафреймов в PySpark]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/760796/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/760796/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/5u/p5/yc/5up5ycq1svlqzz1yfma2pflwh4u.jpeg"><br>
+<br>
+Дата-инженеры, работающие с PySpark, часто сталкиваются с задачей создать логику обработки данных. Обычно речь идет о тестировании набора классов и функций. Современные платформы данных на основе Spark подчас содержат сотни, а то и тысячи разных модульных тестов, которые помогают командам по работе с данными сохранять целостную базу кода. В ежедневные рабочие задачи дата-инженера входит создание небольших датафреймов, которые используются в модульных тестах как входные и выходные значения.<br> <a href="https://habr.com/ru/articles/760796/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 13 Sep 2023 12:35:50 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Облачные вычисления]]></category><category><![CDATA[Apache]]></category><category><![CDATA[Data Engineering]]></category>
+      <category>vk cloud</category><category>Spark</category><category>PySpark</category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Стайлгайд PySpark: как сделать код элегантным]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/760416/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/760416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/tp/7z/od/tp7zods6_pi2nwem0m_uwn8divo.jpeg"><br>
+<br>
+Команда VK Cloud перевела статью о правилах оформления кода в PySpark. Они не обязательны для исполнения, но помогут сделать ваш код более читабельным и удобным для последующих проверок и изменений.<br> <a href="https://habr.com/ru/articles/760416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 12 Sep 2023 08:06:12 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Python]]></category><category><![CDATA[Облачные вычисления]]></category><category><![CDATA[Apache]]></category><category><![CDATA[DevOps]]></category>
+      <category>vk cloud</category><category>Spark</category><category>PySpark</category>
+    </item>
+      <item>
+      <title><![CDATA[Защищай, но проверяй. Как самостоятельно защитить СУБД от взлома]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/760268/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/760268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/ca/iw/ae/caiwae3rn8do0pbx9flcaaxltum.jpeg"><br>
+<br>
+Всем привет! На связи Александр Матвиенко, руководитель группы защиты от утечек информации в компании «Инфосистемы Джет». То, что с безопасностью даже очень популярных сервисов и продуктов не все в порядке, писать нет смысла — все и так читают новости. Несмотря на то, что внешних предпосылок для изменения ситуации нет, мы сами можем повлиять на нее. Для этого сегодня я расскажу об азах безопасности баз данных, находящихся в общем доступе. Мы рассмотрим реальный кейс, познакомимся с харденингом и обсудим, как каждый из вас (будучи разработчиком, создателем Pet-project или DevOps-инженером) может повлиять на защищенность баз в контейнерах в своих проектах.<br>
+<br>
+<blockquote>Статья подготовлена по выступлению на <a href="https://mcs.mail.ru/events/vk-databases-meetup" rel="nofollow noopener noreferrer">VK Databases Meetup</a>,  организованном VK Cloud, так что, кроме текста, есть и <a href="https://vk.com/video/@vk__cloud?z=video-164978780_456239267%2Fclub164978780%2Fpl_-164978780_-2" rel="nofollow noopener noreferrer">видеозапись</a> выступления.</blockquote> <a href="https://habr.com/ru/articles/760268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 11 Sep 2023 12:53:44 GMT</pubDate>
+      <dc:creator>waltherman</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Блог компании Инфосистемы Джет]]></category><category><![CDATA[Информационная безопасность]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[информационная безопасность]]></category><category><![CDATA[NoSQL]]></category><category><![CDATA[защита информации]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Чему вы научитесь на бесплатном курсе VK Education по Go?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/759314/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/759314/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет, Хабр! Меня зовут Антон Сулаев, я руководитель команды бэкенд-разработки Почты <a href="http://Mail.ru">Mail.ru</a> в VK и по совместительству ведущий преподаватель онлайн-курса <a href="https://vk.cc/cq6qYp"><u>«Разработка веб-сервисов на Golang»</u></a>. Недавно мы <a href="https://habr.com/ru/companies/vk/news/754534/"><u>рассказали</u></a> об открытии набора на новые бесплатные курсы VK Education по нескольким востребованным направлениям — программирование на Python и Go, а также техподдержка.</p><p>В этой статье мы подробнее расскажем о курсе «Разработка веб-сервисов на Golang», слушатели которого смогут развить навыки программирования на этом языке и научатся использовать его в серверной веб-разработке.  </p><p></p> <a href="https://habr.com/ru/articles/759314/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 07 Sep 2023 09:17:43 GMT</pubDate>
+      <dc:creator>a_sulaev</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Go]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[golang]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Безопасность K8s: защита кластеров в Сloud Containers от VK Cloud и Luntry]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/759026/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/759026/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/b0/js/sg/b0jssgg7e7dt3angktckqx6zwzm.png"><br>
+<br>
+Благодаря широкой совместимости и большому количеству встроенных функций Kubernetes позволяет выстроить надежную систему безопасности и мониторинга. Но «из коробки» пользователям почти ничего недоступно. Если остро стоит вопрос безопасности, отдельные инструменты нужно активировать и подключать, что для многих, особенно новичков в K8s, становится нетривиальной задачей и требует дополнительного изучения.<br> <a href="https://habr.com/ru/articles/759026/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 06 Sep 2023 12:32:50 GMT</pubDate>
+      <dc:creator>avvolkov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Kubernetes]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[информационная безопасность]]></category><category><![CDATA[защита информации]]></category><category><![CDATA[защита кластеров]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как профилировать, когда perf видит не все]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/758128/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/758128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/ee/2m/m4/ee2mm4dlbjfwlnmgpboi-mti0jk.jpeg"><br>
+<br>
+В современных системах интерпретаторы используются повсеместно. Для проверки на соответствие ожиданиям по производительности их необходимо профилировать. Но когда значительная часть логики исполняется встроенным интерпретатором, окинуть взглядом общую картину при профилировании становится крайне затруднительно, потому что существующие инструменты не способны отражать переходы между интерпретируемой и нативной частями системы.<br> <a href="https://habr.com/ru/articles/758128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 05 Sep 2023 10:31:03 GMT</pubDate>
+      <dc:creator>maxkokryashkin</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Администрирование баз данных]]></category><category><![CDATA[Tarantool]]></category>
+      <category><![CDATA[Tarantool]]></category><category><![CDATA[профилирование]]></category><category><![CDATA[perf]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Immutable-инфраструктура и ее преимущества]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/756152/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/756152/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/oa/gl/ai/oaglaiy-bibk-szdjahrsizxx7u.jpeg"><br>
+<br>
+Привет, Хабр! Меня зовут Илья Нырков, я Presale-архитектор в <a href="https://mcs.mail.ru/" rel="nofollow noopener noreferrer">VK Cloud</a>. В своей работе я часто сталкиваюсь с проблемами клиентов при выкатке новых версий их проектов. Плохая документация (или зачастую ее отсутствие) приводит к нехватке информации о системных настройках, установленном ПО и его версиях на машине. Из-за этого диагностика и устранение регулярно возникающих проблем значительно усложняются.<br> <a href="https://habr.com/ru/articles/756152/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Fri, 01 Sep 2023 10:43:58 GMT</pubDate>
+      <dc:creator>IlyaNyrkov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[инфраструктура]]></category><category><![CDATA[Infrastructure as a code]]></category><category><![CDATA[IaaC]]></category><category><![CDATA[контейнеры]]></category><category><![CDATA[Kubernetes]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Бесплатный курс VK Education: углублённый Python для студентов и недавних выпускников]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/757686/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/757686/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Всем привет! Меня зовут Анастасия Скуйбедина, я менеджер образовательных проектов VK.&nbsp;Недавно мы&nbsp;<a href="https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://habr.com/ru/companies/vk/news/754534/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1693323035847818%26amp;usg%3DAOvVaw1Emz3LKcS_DOAIqyAOx7p1&amp;sa=D&amp;source=docs&amp;ust=1693323035869338&amp;usg=AOvVaw0AsBFnRNt55Gyw8XqEon2i"><u>рассказали</u></a>&nbsp;о трёх бесплатных образовательных курсах, которые VK Education запускает этой осенью. Один из них —&nbsp;<a href="https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://vk.cc/cq6rlE%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1693323035848305%26amp;usg%3DAOvVaw1EGzeJOsT7kO3yXEJix0X-&amp;sa=D&amp;source=docs&amp;ust=1693323035869581&amp;usg=AOvVaw3rEabi5tdrnk6u5Mw1kLFr"><u>«Углублённый Python»</u></a>, о котором я расскажу подробнее в этом посте.</p><p></p> <a href="https://habr.com/ru/articles/757686/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 29 Aug 2023 14:49:48 GMT</pubDate>
+      <dc:creator>skbdna</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Python]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[разработка]]></category><category><![CDATA[python]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Новый взгляд на аналитику ошибок в production, или Работающая альтернатива Crashlytics]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/757416/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/757416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p><strong>Небольшое предисловие от команды ОК</strong>: Последний пост на Хабре от Одноклассников был написан ещё в декабре прошлого года. Мы пропали отсюда на 8 месяцев, но это не означает, что за это время с Одноклассниками ничего не происходило. Нами по-прежнему пользуется несколько десятков миллионов человек ежемесячно, мы по-прежнему один из самых высоконагруженных сервисов на Java в мире. Мы обновили позиционирование, отсняли десятки эпизодов собственных шоу, отказались от оценок под фото :) </p><p>Мы решили вернуться на Хабр после долгого отсутствия и сразу с рассказом о своем проекте, который назвали Tracer. О том, что это, рассказывает руководитель направления Android-разработки в проекте ОК Кирилл Попов. </p><p>Ошибки и сбои в работе мобильного приложения — беда для любого разработчика, которая непременно тянет за собой ворох проблем в виде ухудшения UI, потери лояльности и оттока аудитории, а также смещения фокуса с написания продуктового кода на исправление багов. Вместе с тем, часто полностью исключить проблемы невозможно. Поэтому, чтобы обеспечить предсказуемую работу прода и свести ущерб от сбоев к минимуму, важно своевременно проводить аналитику ошибок. Но есть кейсы, когда классических решений со стектрейсами ошибок не достаточно, чтобы понять что и, главное, почему идет не так. В таких и многих других сценариях поможет <a href="https://apptracer.ru/"><u>Tracer</u></a> — модульный инструмент для аналитики ошибок в мобильных приложениях от <a href="https://oktech.ru/"><u>OK.Tech</u></a>, технической команды ОК, который можно настроить под определенную задачу и который может решать конкретные проблемы.  </p><p></p> <a href="https://habr.com/ru/articles/757416/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 29 Aug 2023 09:56:05 GMT</pubDate>
+      <dc:creator>Sk1talec</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Блог компании Одноклассники]]></category><category><![CDATA[Аналитика мобильных приложений]]></category>
+      <category><![CDATA[аналитика]]></category><category><![CDATA[tracer]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] От IP к удостоверению: превращаем домашних питомцев в облачный рогатый скот]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/757264/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/757264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/t4/dn/uy/t4dnuy0071__lx-pb0lf1c_1n9m.jpeg"><br>
+<br>
+Один бит меняет следующий. Фронтенд ведет диалог с бэкендом. Все в ИТ строится вокруг удостоверения, вокруг того, что с чем взаимодействует и каков результат этого взаимодействия. Команда<a href="https://mcs.mail.ru/" rel="nofollow noopener noreferrer"> VK Cloud</a> перевела статью о переходе от IP к identity, или удостоверениям.<br> <a href="https://habr.com/ru/articles/757264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 29 Aug 2023 08:38:45 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Сетевые технологии]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
+      <category>vk cloud</category><category>kubernetes</category><category>ip</category><category>удостоверения</category><category>identity</category><category>Cilium</category>
+    </item>
+  
+    <item>
+        <title><![CDATA[Герои напильника и паяльника: итоги сезона DIY]]></title>
+        <guid isPermaLink="true">https://habr.com/ru/specials/757220/</guid>
+        <link>https://habr.com/ru/specials/757220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+        <description><![CDATA[<p>В классических RPG персонаж игрока занимается, по сути, ровно двумя вещами: качается и причиняет миру добро. Эти вещи взаимосвязаны: чем больше причинил добра, тем больше дали очков опыта. Чем сильнее прокачал навыки, тем больше можешь причинить миру добра. DIY — тоже в каком-то смысле RPG. Собрав работающий <a href="https://habr.com/ru/articles/747426/" rel="noopener noreferrer nofollow"><u>электросамокат</u></a> на базе нерабочего гироскутера, одновременно и новые безумные скиллы приобретаешь, и сынишку радуешь, и немного даже об окружающей среде заботишься.</p><p>Привет, Хабр! Сезон DIY подходит к концу, и мы, компания VK, пришли его торжественно закрыть, раздать особо отличившимся героям лут и голду, а заодно — поговорить о том, чему именно учится DIY’щик и какое конкретно добро он причиняет миру.</p><p></p> <a href="https://habr.com/ru/articles/757220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+        
+        <pubDate>Mon, 28 Aug 2023 10:04:45 GMT</pubDate>
+        <dc:creator>megapost</dc:creator>
+        <category><![CDATA[DIY или Сделай сам]]></category>
+        <category><![CDATA[diy-проекты]]></category><category><![CDATA[сезон diy]]></category><category><![CDATA[конкурс]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Point-in-time Recovery. Как уменьшить RPO для базы данных]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/755922/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/755922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/yj/ck/aj/yjckajmn6oygbo8ipuvk352td7a.jpeg"><br>
+<br>
+Падение любой информационной системы — это по умолчанию больно и неприятно. На Хабре вы найдете много статей о том, как этого избежать. Но что делать, если все-таки случилась одна из тех историй, которыми пугают джунов? Уборщица разлила ведро воды в ЦОДе или злосчастный экскаватор перерубил оптоволокно?<br>
+<br>
+Меня зовут Андрей Белый, я старший разработчик VK Cloud в команде DBaaS. В этой статье мы на примере PostgreSQL разберем принципы работы баз данных и поговорим о том, как минимизировать последствия инцидентов с помощью оптимизации RPO (Recovery point objective).<br>
+<br>
+<blockquote><i>Материал подготовлен по мотивам моего выступления на VK Databases Meetup <a href="https://vk.com/video/@vk__cloud?z=video-164978780_456239266%2Fclub164978780%2Fpl_-164978780_-2" rel="nofollow noopener noreferrer">«Point-in-time Recovery. Как уменьшить RPO для базы данных»</a></i>. </blockquote> <a href="https://habr.com/ru/articles/755922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 24 Aug 2023 09:54:20 GMT</pubDate>
+      <dc:creator>DeBass</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Администрирование баз данных]]></category><category><![CDATA[Big Data]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[большие данные]]></category><category><![CDATA[DBaaS]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Swift и Objective-C в одном SDK. Стерпится, слюбится]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/756470/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/756470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет! Меня зовут Игорь Сорокин, я занимаюсь iOS-разработкой в myTarget. Мы разрабатываем SDK для показа рекламы в мобильных приложениях. Недавно мы решили переписать его с Objective-C на Swift. Так как делать это мы решили итеративно, то какое-то время в нашем SDK должны уживаться два языка одновременно. Я расскажу, какие подходы используют для этого, почему нам не подошёл стандартный способ и что у нас из этого получилось. Статья будет полезна тем, кто разрабатывает SDK, используя оба языка, а также тем, кто хочет переехать с Objective-C на Swift.</p><p></p> <a href="https://habr.com/ru/articles/756470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 24 Aug 2023 08:43:55 GMT</pubDate>
+      <dc:creator>srk1nn</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Разработка под iOS]]></category><category><![CDATA[Разработка мобильных приложений]]></category>
+      <category><![CDATA[ios]]></category><category><![CDATA[ios sdk]]></category><category><![CDATA[interoperability]]></category><category><![CDATA[objective-c]]></category><category><![CDATA[swift]]></category>
+    </item>
+      <item>
+      <title><![CDATA[«Квантовые облака»: как VK Cloud и разработчики делают квантовые вычисления ближе к бизнесу]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/754518/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/754518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/hx/t1/lh/hxt1lhex4j-9-wpwxjyrolarfeq.png"><br>
+<br>
+Есть целый спектр задач, прежде всего промышленных, которые невозможно решить с помощью простых компьютеров. Суперкомпьютеры часто тоже оказываются бессильны из-за фундаментальных ограничений классической модели вычислений. Кроме того, решение многих задач становится экономически неоправданным из-за высокой стоимости суперкомпьютерной инфраструктуры. Поэтому у производственников и крупного бизнеса есть большой спрос на инструменты, которые могут проводить вычисления «за гранью» классических возможностей. В этом помогают квантовые процессоры и их эмуляторы.<br> <a href="https://habr.com/ru/articles/754518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 23 Aug 2023 09:20:20 GMT</pubDate>
+      <dc:creator>alexfedorov_q</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Облачные вычисления]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Квантовые технологии]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[квантовые процессоры]]></category><category><![CDATA[квантовые вычисления]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Разговор об управлении компанией, искусственном интеллекте и ИТ-гигантах]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/755040/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/755040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/vx/jt/4d/vxjt4dstbwe5jpl6-dk8cupnkac.jpeg"><br>
+<br>
+Команда VK Cloud перевела расшифровку <a href="https://hbr.org/podcast/2023/05/alphabet-ceo-sundar-pichai-on-leadership-ai-and-big-tech" rel="nofollow noopener noreferrer">подкаста Harvard Business Review HBR IdeaCast</a>. В нем Сундар Пичай, генеральный директор Google и его родительской компании Alphabet, рассказывает о генеративном ИИ и других вопросах, касающихся искусственного интеллекта и развития крупных ИТ-компаний в будущем. Сделали краткую выжимку из этого подкаста и делимся с вами.<br> <a href="https://habr.com/ru/articles/755040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 21 Aug 2023 11:14:49 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category>vk cloud</category><category>ML</category><category>Machine learning</category><category>генеративный ИИ</category><category>искусственный интеллект</category>
+    </item>
+      <item>
+      <title><![CDATA[Как Maningame зашли в RuStore]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/755478/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/755478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p><em>Разработчикам игр стоит делать свои проекты&nbsp;мультиплатформенными, считают в Maningame. Компания разместилась в RuStore и получила аудиторию, готовую платить больше, чем на других площадках. Секретом успеха поделился CEO Maningame Александр Щевелёв.</em></p><p></p> <a href="https://habr.com/ru/articles/755478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 18 Aug 2023 12:09:26 GMT</pubDate>
+      <dc:creator>RuStore</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка под Android]]></category><category><![CDATA[IT-компании]]></category>
+      <category><![CDATA[rustore]]></category><category><![CDATA[мобильная разработка]]></category><category><![CDATA[игры]]></category><category><![CDATA[android]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Искусственный интеллект: сколько он стоит, куда идет и можно ли ему доверять]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/754906/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/754906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/l9/pe/ne/l9penehsrtorj5rvbpsfatylrrm.jpeg"><br>
+<br>
+С тех пор как летом 1956 года на Дартмутском семинаре придумали термин «искусственный интеллект», эта техническая область развивалась на удивление неравномерно. С одной стороны, с ИИ связаны сотни захватывающих дух заголовков. С другой стороны, — такое сильное разочарование, что командам ИИ приходилось скрывать свою суть под другим именем, лишь бы стереть клеймо несбыточных обещаний и мизерных результатов.<br>
+<br>
+Команда VK Cloud перевела статью о том, что на самом деле сейчас происходит с искусственным интеллектом: чего от него ждут, сколько он стоит и как будет развиваться в будущем.<br> <a href="https://habr.com/ru/articles/754906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 16 Aug 2023 08:18:12 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category>vk cloud</category><category>ML</category><category>Machine learning</category><category>Искусственный интеллект</category>
+    </item>
+      <item>
+      <title><![CDATA[Собираем и запускаем Linux-0.01 в Minix 1.5, (почти) как это делал Линус Торвальдс]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/752564/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/752564/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Я люблю старые программы, мне нравится их изучать и смотреть, как они развивались и во что сейчас превратились, или умерли, так и не дожив до сегодняшнего дня. Ещё мне нравится смотреть разные YouTube-каналы, посвящённые ретро-тематике, на которых рассказывают об истории программ, игр, игровых приставок или старых компьютеров. Хочу сказать всем этим людям «спасибо» за то, что сохраняете частичку истории технологий. И, вдохновившись их трудами, мне захотелось попробовать самому прикоснутся к истории, собрав и запустив что-то относительно старое, но до сих пор живущее и развивающееся. Мой выбор пал на первую версию Linux, а именно версию 0.01.</p><p>Те, кто знаком с ранними днями создания Linux, знают, что Линус Торвальдс писал её для компьютеров на основе 386-х процессоров в пропатченной версия Minix 1.5.10. И не смотря на то, что linux-0.01 собирали не раз, в том числе и на <a href="https://www.opennet.ru/opennews/art.shtml?num=13523">современных версиях компилятора</a>, мне хотелось побыть хоть немного в шкуре самого Линуса и самому собрать ядро в родной для этой ОС среде. А именно на максимально близком, хоть и виртуальном аппаратном обеспечении, в настоящей Minix 1.5.10 (точнее, Minix-386) с древней версией GCC 1.37.1</p><p>17 сентября ядру Linux исполнится 32 года. Это прекрасный повод вспомнить, как всё начиналось…</p> <a href="https://habr.com/ru/articles/752564/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 15 Aug 2023 11:49:17 GMT</pubDate>
+      <dc:creator>OlegSL</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Настройка Linux]]></category><category><![CDATA[*nix]]></category><category><![CDATA[История IT]]></category><category><![CDATA[Старое железо]]></category>
+      <category><![CDATA[старое по]]></category><category><![CDATA[minix]]></category><category><![CDATA[86box]]></category><category><![CDATA[linux kernel]]></category><category><![CDATA[linux kernel development]]></category><category><![CDATA[старое железо]]></category><category><![CDATA[история создания]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Улучшаем BARSiC: как мы проверяли и совершенствовали алгоритм консенсуса в кластере]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/753736/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/753736/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет, Хабр! В команде ВКонтакте существует система управления репликацией и консенсусом в кластере, которая называется BARSiC (<strong>B</strong>inary&nbsp;<strong>A</strong>synchronous&nbsp;<strong>R</strong>eplication with&nbsp;<strong>Si</strong>mple&nbsp;<strong>C</strong>onsensus). Прежде всего она контролирует состав кластера, определяя, кто реплика, а кто — мастер. А при выходе мастера из строя реплики выбирают нового с непротиворечивой линейной историей.&nbsp;</p><p>Для решения этой задачи команда ВКонтакте совместно с университетом&nbsp;<a href="https://habr.com/ru/companies/spbifmo/profile/"><u>ИТМО</u></a>&nbsp;работали над научно-исследовательским проектом «Разработка моделей для верификации распределенных алгоритмов в системе BARSiC». В этой статье подробно расскажем о том, как мы в рамках проекта верифицировали выбранный для BARSiC алгоритм, и попутно исправили найденную в нём ошибку.&nbsp;</p><p></p> <a href="https://habr.com/ru/articles/753736/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 15 Aug 2023 09:07:05 GMT</pubDate>
+      <dc:creator>vkcompany</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Алгоритмы]]></category><category><![CDATA[Исследования и прогнозы в IT]]></category>
+      <category><![CDATA[разработка]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Над какими проектами работали студенты образовательного центра VK в Бауманке]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/753738/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/753738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет, Хабр! VK совместно с <a href="https://park.vk.company/curriculum/program/main/533/"><u>МГТУ им. Н.Э. Баумана</u></a> много лет активно развивает образовательные программы для студентов. Для этого у нас есть направление <a href="https://education.vk.company/"><u>VK Education</u></a>, которое помогает нам обучать студентов по широкому спектру IT и digital-специальностей. Один из совместных проектов – учебный центр для разработчиков на базе МГТУ им Н.Э. Баумана. На протяжении двух лет ребята проходили программу обучения, объединялись в команды и под руководством преподавателей и экспертов из VK создавали собственные проекты по разным направлениям — web-, ML- и Java-разработка высоконагруженных приложений.</p><p>Недавно в московском офисе VK состоялась защита выпускных работ. Экспертный совет выбрал лучшие проекты, часть из них удостоилась победы в специальной номинации –&nbsp; «Выбор ментора».</p><p>В этой статье мы познакомим вас с разработками выпускников и расскажем, какие из них стали победителями. С видеопрезентациями работ можно познакомиться в <a href="https://vk.com/vkeducation?w=wall-92204627_22163"><u>сообществе</u></a> VK Education ВКонтакте.&nbsp;</p><p></p> <a href="https://habr.com/ru/articles/753738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Mon, 14 Aug 2023 08:24:17 GMT</pubDate>
+      <dc:creator>AleksandrKriuchkov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Веб-разработка]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Учебный процесс в IT]]></category>
+      <category><![CDATA[МГТУ]]></category><category><![CDATA[vk]]></category><category><![CDATA[выпускной]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Дайджест мобильной разработки за июль]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/754084/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/754084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Релизы Kotlin 1.9.0, Jetpack Media3 1.1.0, ADB Enhanced, тёмная тема в RuStore — и другие  важные новости рынка мобильной разработки в июле 2023 года.</p><p></p> <a href="https://habr.com/ru/articles/754084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 11 Aug 2023 14:36:57 GMT</pubDate>
+      <dc:creator>RuStore</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка под Android]]></category>
+      <category><![CDATA[новости технологий]]></category><category><![CDATA[новости]]></category><category><![CDATA[мобильные приложения]]></category><category><![CDATA[мобильная разработка]]></category><category><![CDATA[kotlin]]></category><category><![CDATA[rustore]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Open Source: ключевые вызовы для разработчиков]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/752948/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/752948/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/ar/tx/tg/artxtgtkpxms6yphmle2_qz8pnk.jpeg"><br>
+<br>
+Привет, Хабр! Меня зовут Саша Белоцерковский, я евангелист-архитектор из VK Tech, а еще раньше — из Microsoft, где волонтерил в качестве лидера глобального Open Source-сообщества. Я очень люблю Open Source, люблю людей, которые работают в нашем большом сообществе. <br> <a href="https://habr.com/ru/articles/752948/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Fri, 11 Aug 2023 07:43:45 GMT</pubDate>
+      <dc:creator>ahriman</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[DevOps]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[open source]]></category><category><![CDATA[информационная безопасность]]></category>
+    </item>
+      <item>
+      <title><![CDATA[«Бизнес-юнит — как семья». Незрячий сотрудник VK водит экскурсии по офису и развивает цифровую доступность]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/753724/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/753724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет! Я Артем Плаксин, незрячий специалист по цифровой доступности в VK. Я делаю наши сервисы удобными для людей с ограниченными возможностями здоровья и работаю над социальными проектами. Ещё я <a href="https://vk.com/maniyax"><u>веду блог</u></a> — как пользователь той самой доступной среды, айтишник и просто живой человек.</p><p>То, как устроена моя работа, — отличный пример, как внимание к потребностям людей помогает менять мир к лучшему.</p><p></p> <a href="https://habr.com/ru/articles/753724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 10 Aug 2023 08:58:52 GMT</pubDate>
+      <dc:creator>vkcompany</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка под MacOS]]></category><category><![CDATA[Разработка под Windows]]></category><category><![CDATA[Интервью]]></category>
+      <category><![CDATA[инклюзия]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как мы запустили официальный российский магазин приложений RuStore]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/752070/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/752070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p><em>25 мая 2022 года вышла бета-версия магазина приложений RuStore. Сегодня им пользуется более 10 миллионов человек для загрузки приложений на мобильные устройства. Команда стора рассказывает о том, как начался проект, его развитии и планах.</em></p><p></p> <a href="https://habr.com/ru/articles/752070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 04 Aug 2023 10:37:05 GMT</pubDate>
+      <dc:creator>RuStore</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка под Android]]></category><category><![CDATA[IT-компании]]></category>
+      <category><![CDATA[rustore]]></category><category><![CDATA[мобильная разработка]]></category><category><![CDATA[android]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Приемы логирования в Kubernetes]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/750982/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/750982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/dd/ga/ap/ddgaapkggrgow3-ifnnrbtwlwus.jpeg"><br>
+<br>
+Логирование — это критически важный аспект работы с любым приложением в Kubernetes. Оно помогает отслеживать работоспособность и эффективность приложения, быстро устранять неисправности. Команда VK Cloud перевела статью о логах и лучших приемах логирования в среде Kubernetes.<br> <a href="https://habr.com/ru/articles/750982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Fri, 04 Aug 2023 09:13:26 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
+      <category>vk cloud</category><category>kubernetes</category><category>логирование</category>
+    </item>
+      <item>
+      <title><![CDATA[Практики ChatOps с VK Teams (часть II): OpsDroid — коннектор, скиллы, боты]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/750208/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/750208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/ex/rg/qc/exrgqcvsrvilgaxihlqtzyqsov4.jpeg"><br>
+<br>
+Всем привет! Меня зовут Макарий, я DevOps-инженер в команде кросс-платформенной инфраструктуры корпоративного супераппа <a href="https://teams.vk.com/" rel="nofollow noopener noreferrer">VK Teams</a>. Сегодня я продолжу рассказ о том, как мы применяем практики ChatOps в наших рабочих процессах. Первую часть о самих практиках и мини-аппах для их реализации можно прочитать <a href="https://habr.com/ru/companies/vk/articles/750206/">здесь</a>.<br> <a href="https://habr.com/ru/articles/750208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 03 Aug 2023 07:07:15 GMT</pubDate>
+      <dc:creator>makaryb</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Мессенджеры]]></category><category><![CDATA[Управление проектами]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[DevOps]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[ChatOps]]></category><category><![CDATA[VK Teams]]></category><category><![CDATA[API]]></category><category><![CDATA[автоматизация]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как освоить Tarantool за 3 месяца и выжить: учимся на ошибках DevOps-инженера]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/750940/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/750940/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/m3/xy/g-/m3xyg-o4fyfdgqda0rtzepkxrru.jpeg"><br>
+<br>
+Освоение нового инструмента и его внедрение в работающий проект — практически типовая задача для многих компаний. Более того, часто DevOps-инженерам и другим специалистам приходится изучать новый инструмент в сжатые сроки, в том числе когда компетенцию в команде надо нарабатывать с нуля. Поэтому сложности и ошибки — практически неотъемлемая часть обучения. <br> <a href="https://habr.com/ru/articles/750940/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 01 Aug 2023 06:15:10 GMT</pubDate>
+      <dc:creator>alive2win</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Блог компании Cloud.ru]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Tarantool]]></category>
+      <category><![CDATA[Tarantool]]></category><category><![CDATA[VK Teams]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Cloud.ru]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Практики ChatOps с VK Teams (часть I): мини-аппы, таск-трекеры, Bot API]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/750206/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/750206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/jk/gg/dg/jkggdgkskrvog_pqiuzpwlk-xaq.jpeg"><br>
+<br>
+Всем привет! Меня зовут Макарий, я DevOps-инженер в команде кросс-платформенной инфраструктуры корпоративного супераппа <a href="https://teams.vk.com/" rel="nofollow noopener noreferrer">VK Teams</a>. Сегодня я расскажу, как мы применяем практики ChatOps в наших рабочих процессах.<br>
+<br>
+ChatOps — модель организации работы и коммуникации внутри команды через общение, то есть через мессенджер. Такой подход объединяет разработчиков, DevOps-инженеров, QA-специалистов, инженеров поддержки, продуктовых менеджеров, аналитиков и других участников процесса в единую коммуникационную платформу. Я расскажу, как ChatOps помогает организовать работу команды: повышает производительность, ускоряет реагирование на инциденты, улучшает согласованность действий. Поделюсь успешными примерами внедрения принципов СhatOps на примере нашей команды VK Teams. Уверен, этот опыт откроет для ваc новые возможности, которые предоставляет ChatOps.<br> <a href="https://habr.com/ru/articles/750206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Fri, 28 Jul 2023 08:34:30 GMT</pubDate>
+      <dc:creator>makaryb</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Управление проектами]]></category><category><![CDATA[Управление персоналом]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[ChatOps]]></category><category><![CDATA[VK Teams]]></category><category><![CDATA[API]]></category><category><![CDATA[автоматизация]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Как создавать качественные ML-системы. Часть 2: приручаем хаос]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/749852/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/749852/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/x9/9f/gu/x99fguc6exxgcqynp3mtypjci5w.jpeg"><br>
+<br>
+Команда VK Cloud перевела вторую статью из серии о создании ML-систем. Первую<a href="https://habr.com/ru/companies/vk/articles/749850/"> читайте по ссылке</a>. Здесь поговорим о Data-centric ИИ, данных для обучения, разметке и очистке, синтетических данных и еще немного о Data Engineering и ETL.<br> <a href="https://habr.com/ru/articles/749852/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 26 Jul 2023 11:02:54 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category>vk cloud</category><category>ML</category><category>Machine learning</category><category>ML-системы</category><category>искусственный интеллект</category><category>Data Engineering</category><category>ETL</category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Как создавать качественные ML-системы. Часть 1: каждый проект должен начинаться с плана]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/749850/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/749850/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/bt/ok/bm/btokbmqqtiltuajiqtaqetpqjow.jpeg"><br>
+<br>
+Команда VK Cloud перевела серию из двух статей о жизненном цикле ML-проекта, проектной документации, ценности для бизнеса и требованиях. О том, как начинать с малого и быстро отказываться от слабых идей. Руководство пригодится дата-сайентистам, специалистам по машинному обучению, руководителям отделов, техническим руководителям или тем, кто хочет дорасти до этого уровня. <br> <a href="https://habr.com/ru/articles/749850/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 25 Jul 2023 08:42:45 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category>vk cloud</category><category>ML</category><category>Machine learning</category><category>ML-системы</category><category>планирование проектов</category>
+    </item>
+      <item>
+      <title><![CDATA[Postman: Основы тестирования API и первые шаги с инструментом]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/750096/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/750096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>В мире современной разработки программного обеспечения, взаимодействие между различными приложениями через интерфейсы приложений (API) стало неотъемлемой частью разработки. Однако, прежде чем мы можем строить сложные взаимодействия, необходимо убедиться, что наш API работает корректно и предоставляет ожидаемые результаты.</p><p>И вот на сцену выходит Postman - мощный и интуитивно понятный инструмент, предназначенный специально для тестирования и разработки API. В этой статье рассказывается о самых базовых вещах, с которых следует начать свое знакомство с Postman.</p><p>Отправка HTTP-запросов, создание тестов, организация запросов в коллекции, работа с переменными - все это лишь часть функциональности Postman, которая облегчает процесс тестирования и повышает его эффективность. Если вы только начинаете свой путь в изучении этого инструмента, не волнуйтесь! Этот гайд поможет вам разобраться с базовыми принципами работы с Postman и покажет, как сделать ваш процесс тестирования API гораздо более эффективным и приятным.</p><p>Готовы начать? Давайте вместе погрузимся в увлекательный мир тестирования API с Postman!</p><p></p> <a href="https://habr.com/ru/articles/750096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Mon, 24 Jul 2023 19:56:41 GMT</pubDate>
+      <dc:creator>MalinovayaZaya</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[API]]></category><category><![CDATA[Тестирование веб-сервисов]]></category>
+      <category><![CDATA[postman api]]></category><category><![CDATA[postman]]></category><category><![CDATA[тестирование api]]></category><category><![CDATA[автоматизация тестирования]]></category><category><![CDATA[api]]></category><category><![CDATA[http]]></category><category><![CDATA[rest]]></category><category><![CDATA[rest api]]></category><category><![CDATA[status_code]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Генерация персонализированных стикеров на основе DreamBooth]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/749136/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/749136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет, Хабр! Меня зовут Саша Рогачёв, я старший программист-исследователь в команде компьютерного зрения в VK. Перенос стиля — одна из самых интересных задач в генеративном компьютерном зрении. Не каждый может создавать изображения в определённом стиле, как это реализовано во множестве фоторедакторов с открытым и закрытым кодом, которые позволяют сделать картинку в жанре импрессионизма, ретро, кубизма и т. д. Самая частая проблема, с которой можно столкнуться при реализации таких приложений – это дообучение больших моделей. Решить её можно при помощи разных методов: например, DreamBooth, LoRA и т. д.&nbsp;</p><p>С этой задачей я и моя команда столкнулись в <a href="https://spb.hse.ru/fmcs/programming/"><u>школе по практическому программированию и анализу данных от Питерской Вышки</u></a>, генеральным партнером которого выступила компания VK. В рамках образовательной программы от экспертов VK Education мы решали задачу по генерации стикеров с использованием диффузионных моделей. В этой статье мы расскажем о нашем подходе к её решению, с какими трудностями встретились и к каким выводам пришли.</p> <a href="https://habr.com/ru/articles/749136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 21 Jul 2023 08:38:53 GMT</pubDate>
+      <dc:creator>airogachev</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Мессенджеры]]></category><category><![CDATA[Обработка изображений]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category><![CDATA[генеративные модели]]></category><category><![CDATA[ниу вшэ]]></category><category><![CDATA[машинное+обучение]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Создание, тестирование и обслуживание распределённых веб-сервисов: новая магистерская программа VK Education и ИТМО]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/748082/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/748082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Всем привет! Я Вадим, главный инженер технологической платформы VK и академический руководитель новой магистерской программы VK Education и ИТМО <a href="https://dws.itmo.ru"><u>«Распределëнные веб‑сервисы»</u></a>. </p><p>В&nbsp;этой статье я хочу рассказать, почему мы открываем эту программу вместе с <a href="https://habr.com/ru/companies/spbifmo/profile/">ИТМО</a>.&nbsp;</p><p></p> <a href="https://habr.com/ru/articles/748082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 21 Jul 2023 07:13:02 GMT</pubDate>
+      <dc:creator>incubos</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[itmo]]></category><category><![CDATA[vk]]></category><category><![CDATA[education]]></category><category><![CDATA[web scale]]></category><category><![CDATA[distributed]]></category><category><![CDATA[highload]]></category><category><![CDATA[fault-tolerant]]></category><category><![CDATA[scalable]]></category><category><![CDATA[nosql]]></category><category><![CDATA[java]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как написать идеальный автотест: 25 джедайских принципов]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/748776/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/748776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет! Меня зовут Дмитрий Трофимов (@angryqa во ВКонтакте или @trofimovdigital на просторах интернета). Я тимлид отдела автоматизации тестирования в VK ID. С командой мы проделали большой путь при внедрении автотестов в наш продукт, и на этом пути мастерски овладели принципами написания идеальных тестов, которыми спешу поделиться с вами.   </p><p></p> <a href="https://habr.com/ru/articles/748776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 19 Jul 2023 09:37:06 GMT</pubDate>
+      <dc:creator>trofimovdigital</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Тестирование IT-систем]]></category>
+      <category><![CDATA[автотесты]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Дайджест мобильной разработки за июнь]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/748630/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/748630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Релизы NativeScript для Storybook v7, Fluent 2, новые API в RuStore — и другие самые важные новости рынка мобильной разработки в июне 2023 года.</p><p></p> <a href="https://habr.com/ru/articles/748630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 18 Jul 2023 09:17:11 GMT</pubDate>
+      <dc:creator>RuStore</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка под Android]]></category>
+      <category><![CDATA[новости технологий]]></category><category><![CDATA[новости]]></category><category><![CDATA[мобильные приложения]]></category><category><![CDATA[мобильная разработка]]></category><category><![CDATA[kotlin]]></category><category><![CDATA[java]]></category><category><![CDATA[rustore]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как добавлять свои мини-приложения в корпоративный суперапп VK Teams]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/744994/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/744994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/4k/9g/xo/4k9gxowtk_yxpgselc40lzqjkey.jpeg"><br>
+<br>
+Привет, Хабр! Меня зовут Олег Новиков, я разработчик VK Teams и координатор направления платформы мини-аппов. VK Teams — это корпоративный суперапп для коммуникаций и совместной работы команд. Мы сами в VK общаемся по работе только в VK Teams — а это более 10 000 сотрудников компании! Но VK Teams — это не просто «чатилка». В него можно интегрировать свои мини-приложения, например для оформления отпусков и больничных — все, что угодно.<br> <a href="https://habr.com/ru/articles/744994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 17 Jul 2023 08:39:29 GMT</pubDate>
+      <dc:creator>novikov11</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Веб-разработка]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Программирование]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[мини-аппы]]></category><category><![CDATA[API]]></category><category><![CDATA[javascript]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Пугающее противостояние: утечка данных в машинном обучении]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/746360/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/746360/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/mj/_y/4w/mj_y4wrghh0rjb6edzpxkipbyjy.jpeg"><br>
+<br>
+В общем контексте под утечкой данных часто имеют в виду ситуацию, когда без разрешения или без соблюдения должных мер безопасности кому-то постороннему передают конфиденциальную информацию. В результате нарушается безопасность и конфиденциальность данных. В машинном обучении речь идёт о другой проблеме, когда информация из тестового датасета ошибочно попадает в обучающий.<br> <a href="https://habr.com/ru/articles/746360/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 12 Jul 2023 09:26:29 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category>vk cloud</category><category>большие данные</category><category>Big Data</category><category>ML</category><category>Machine Learning</category><category>утечка данных</category>
+    </item>
+      <item>
+      <title><![CDATA[Руководство по менторингу для менеджеров продуктов: зачем он нужен и как запрашивать его у своих руководителей]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/747096/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/747096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Менторинг — мощный инструмент для профессионального развития. Часто под ним подразумевается общение с каким-то внешним наставником. Но при этом сотрудники забывают о том, что такая история возможна внутри компании, когда руководитель на регулярной основе помогает расти своему подчинённому. Во многих случаях это гораздо более действенный инструмент развития.&nbsp;</p><p>Ольга Стратанович, программный директор ProductSense и лидер продуктового направления NPS в «Одноклассниках», рассказала, как правильно запросить менторинг у своего руководителя, почему он может быть гораздо эффективнее внешнего наставничества и что делать, если у руководителя нет на вас времени.&nbsp;</p><p><em>Примечание. В статье будет часто использоваться слово «подчинённый». В рамках материала у него нейтральная коннотация: оно необходимо для указания на формальное положение в иерархии и употребляется в значении «непосредственный подчинённый».&nbsp;</em></p><p></p> <a href="https://habr.com/ru/articles/747096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 11 Jul 2023 08:34:48 GMT</pubDate>
+      <dc:creator>Stratanovich</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[менторинг в ит]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Отладка приложений на Perl в Docker-контейнере]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/746558/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/746558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Я Марсель Ардуанов, руководитель команды разработки VK и по совместительству Go-разработчик. После перехода в другое бизнес-подразделение я столкнулся с сервисами на языке Perl. Если вы посмотрите <a href="https://habr.com/ru/articles/730954/"><u>рейтинг языков программирования в 2023 году на Хабре</u></a>, то увидите, что он не входит в этот список.</p><p>В компаниях до сих пор существуют сервисы на Perl, логику работы которых нужно понять и перенести на другой язык. Обычно в этом очень помогает отладчик. Но походив по интернету, я понял, что лёгкого решения для запуска отладчика нет, нужно разбираться. В этой статье я расскажу, как работать с зависимостями и отлаживать Perl-приложения с использованием современных технологий.</p><p></p> <a href="https://habr.com/ru/articles/746558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Mon, 10 Jul 2023 12:17:41 GMT</pubDate>
+      <dc:creator>m_arduanov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Perl]]></category><category><![CDATA[Отладка]]></category>
+      <category><![CDATA[perl]]></category><category><![CDATA[debug]]></category><category><![CDATA[intellij idea]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Фигуры Matplotlib и стиль Cyberpunk: несколько строк кода — и готова красивая фигура]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/746062/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/746062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/-d/jj/7t/-djj7tlk6ka_9crm8wayxllyauu.jpeg"><br>
+<br>
+Когда мы создаем инфографику или постеры с данными, мы хотим привлечь внимание читателя: для этого изображение должно быть эстетически привлекательным и при этом убедительно доносить нашу мысль. Есть множество графических библиотек для создания графиков с помощью Python. Одна из них — это хорошо известная Matplotlib. Но графики, построенные ее стандартными средствами, часто выглядят скучными, и, чтобы оживить их, нужно потратить много времени.<br> <a href="https://habr.com/ru/articles/746062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Fri, 07 Jul 2023 09:21:47 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category>vk cloud</category><category>большие данные</category><category>Big Data</category><category>ML</category><category>Machine Learning</category><category>Matplotlib</category><category>Python</category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Различия между test-driven- и observability-driven-разработкой]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/744058/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/744058/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/gr/fs/3p/grfs3pwopj2comsrsuf0pcb546m.png"><br>
+<br>
+Мы находимся на пороге новой эры ODD — разработки на основе наблюдаемости. В ней на первый план выходит применение инструментария бэкенд-кода в качестве утверждений для проведения тестов и культура тестирования на основе трассировки. Используя Tracetest, бэкенд-разработчики не просто генерируют E2E-тесты из трассировок OpenTelemetry, они меняют подход к обеспечению качества и повышению скорости даже в самых сложных приложениях.<br> <a href="https://habr.com/ru/articles/744058/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 05 Jul 2023 10:37:21 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Управление разработкой]]></category><category><![CDATA[DevOps]]></category>
+      <category>vk cloud</category><category>test-driven</category><category>observability-driven</category><category>Tracetest</category>
+    </item>
+      <item>
+      <title><![CDATA[Как мы с помощью Kubeflow Pipelines оптимизировали обучение ML-моделей]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/745874/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/745874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Расскажу, как мы оптимизировали обучение моделей, внедрив инструмент Kubeflow Pipelines в нашу практику. Я хочу показать, чем Kubeflow Pipelines может быть полезен ML-специалисту и как в нём без потери существующей кодовой базы можно запускать готовые пайплайны.</p> <a href="https://habr.com/ru/articles/745874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 04 Jul 2023 14:16:54 GMT</pubDate>
+      <dc:creator>mmsmirnova</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category><![CDATA[kubeflow]]></category><category><![CDATA[mlops]]></category><category><![CDATA[mlops tools]]></category><category><![CDATA[machine learning]]></category>
+    </item>
+      <item>
+      <title><![CDATA[«Магия вне Хогвартса», или Как разделить аудиосигнал на источники, обогнав существующие решения]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/745016/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/745016/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет, хабровчане! Меня зовут Дмитрий, я студент первого курса Вышки магистерской программы «Системный анализ и математические технологии».</p><p>В октябре прошлого года я прошёл отбор в Инженерно-математическую школу (ИМШ). Это совместная образовательная программа VK Education и НИУ ВШЭ. Я стал участником мастерской по прикладному искусственному интеллекту. В одном из проектов мы командой из двух человек (да, нас было мало, но мы были сильны!) решили реальную технологическую задачу под руководством эксперта VK и научных сотрудников университета. Нам нужно было придумать технологию разделения аудиосигнала на источники. В команде я отвечал за подготовку данных, а мой коллега — за проведение экспериментов. Хочу рассказать вам подробно, как мы решали эту задачу – надеюсь, что это будет для вас полезно.</p><p></p> <a href="https://habr.com/ru/articles/745016/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Mon, 03 Jul 2023 11:11:51 GMT</pubDate>
+      <dc:creator>ohio_merchant</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Звук]]></category>
+      <category><![CDATA[neural networks]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Тотальный запрет: опыт внедрения Default Deny на живом кластере]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/743512/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/743512/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/rk/cn/bq/rkcnbqxuujjjyneijz9jyptei_m.jpeg"><br>
+<br>
+Deny-All-политики — один из базовых инструментов повышения безопасности кластеров Kubernetes. Но для многих они остаются «черным ящиком» — не все понимают, как их внедрять и настраивать, а также что делать после интеграции. Еще сложнее, если Default Deny надо внедрить на живом кластере.<br> <a href="https://habr.com/ru/articles/743512/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 29 Jun 2023 07:39:44 GMT</pubDate>
+      <dc:creator>Averzzz</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[Kubernetes]]></category><category><![CDATA[Default Deny]]></category><category><![CDATA[Cilium]]></category><category><![CDATA[сетевые политики]]></category>
+    </item>
+      <item>
+      <title><![CDATA[VK Open: 6 часов погружения в открытые платформы]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/744298/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/744298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>3 июня VK Mini Apps провела конференцию <a href="https://vk.com/open"><u>VK Open</u></a> об открытых платформах и их возможностях. В центре внимания оказались доступные разработчикам возможности платформ VK. На VK Open мы решили показать зрителям что-то новое и необычное. Не на словах рассказать о простоте и скорости разработки мини-приложений, а показать это наглядно. Для этого мы оборудовали отдельную зону <strong>лайвкодинга</strong>. Там в режиме реального времени на протяжении всей конференции команда разработчиков из студии <a href="https://vk.com/lunaaps"><u>LunaApp</u></a> с нуля создавали мини-приложение – игру. В любой момент посетители могли подойти и посмотреть на работу команды. А стрим и посты из зоны лайвкодинга набрал 75 000 просмотров.</p><p></p> <a href="https://habr.com/ru/articles/744298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 28 Jun 2023 13:33:52 GMT</pubDate>
+      <dc:creator>Ankam31</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Конференции]]></category>
+      <category><![CDATA[vk mini apps]]></category><category><![CDATA[вконтакте]]></category><category><![CDATA[мини-приложения]]></category><category><![CDATA[чат-боты]]></category><category><![CDATA[облачные сервисы]]></category><category><![CDATA[vk cloud]]></category><category><![CDATA[мессенджер]]></category><category><![CDATA[открытое программное обеспечение]]></category><category><![CDATA[веб-разработка]]></category><category><![CDATA[приложение vkontakte]]></category>
+    </item>
+      <item>
+      <title><![CDATA[«Тушим пожары» по расписанию. Как мы защищаем Mail.ru от аварий в инфраструктуре]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/744242/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/744242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>В жизни людей постоянно происходят катастрофы разных масштабов: пожары, ураганы, землетрясения. Когда такое происходит в городе, на защиту жизни и собственности простых жителей встают ответственные службы, которые тушат пожары, разбирают завалы и так далее. И более того, в городах заранее стремятся выстраивать безопасную и надёжную инфраструктуру, которая снижает шансы возникновения подобных ситуаций.</p><p>В мире IT тоже периодически происходят «катастрофы»: от перегоревшего жёсткого диска на личном ноутбуке до пожара в ЦОДе, хранящем данные миллионов пользователей. Проводя параллель, можно сказать, что IT-компании во многом схожи с городами, они тоже активно занимаются снижением рисков, оценкой, реагированием и ликвидацией последствий так называемых инцидентов — «катастроф» на языке IT.</p><p>Но когда в городе построили новое здание, убедиться в его безопасности можно только проверив наличие пожарных выходов, датчиков дыма, исправности проводки и так далее. Хотя самой репрезентативной проверкой было бы попробовать поджечь это здание и посмотреть, насколько оно действительно отвечает установленным требованиям.</p><p></p> <a href="https://habr.com/ru/articles/744242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 28 Jun 2023 08:37:58 GMT</pubDate>
+      <dc:creator>andrei-m-kiselev</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Серверное администрирование]]></category><category><![CDATA[DevOps]]></category>
+      <category><![CDATA[высоконагруженные системы]]></category><category><![CDATA[отказоустойчивые системы]]></category><category><![CDATA[chaos engineering]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Tarantool: «серебряная пуля» для построения микросервисной архитектуры VK Teams]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/743390/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/743390/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/ec/m5/ec/ecm5echmeubgelfzcb6gzqmzddk.jpeg"><br>
+<br>
+Основной многих проектов являются кастомные решения и инструменты — часто кажется, что так проще и быстрее. Но на практике при динамичном масштабировании проектов наличие крупных кастомных узлов начинает создавать трудности: требуется больше времени, ресурсов и дополнительных издержек. Поэтому с ростом проектов командам нередко разумнее пересматривать стек в пользу готовых решений.<br> <a href="https://habr.com/ru/articles/743390/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 27 Jun 2023 06:59:40 GMT</pubDate>
+      <dc:creator>alexander_polivanov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Администрирование баз данных]]></category><category><![CDATA[Распределённые системы]]></category><category><![CDATA[Tarantool]]></category>
+      <category><![CDATA[Tarantool]]></category><category><![CDATA[VK Teams]]></category><category><![CDATA[микросервисы]]></category>
+    </item>
+  
+    <item>
+        <title><![CDATA[Любовь, 3D-печать и роботы: сезон DIY на Хабре]]></title>
+        <guid isPermaLink="true">https://habr.com/ru/specials/743788/</guid>
+        <link>https://habr.com/ru/specials/743788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+        <description><![CDATA[<p>Было бы нелегко объяснить нашим далёким предкам концепцию Do It Yourself. Предки бы удивились: а кто ещё, собственно, do, кроме yourself? Срубить избу, соткать полотно, вырезать ложку-плошку — навыки, которыми крестьянин прошлых веков не стал бы даже особо хвастать.&nbsp;</p><p>Уатт своими руками сделал паровую машину. Харли с Дэвидсоном собрали первый мотоцикл в сарае. Хьюлет и Паккард создали свой первый продукт в гараже. Сегодня же многие паникуют и вызывают мастера, если заискрила розетка или заело замок. Но есть и те, кто продолжает славные традиции прошлого и творит в своём гараже такое, что удивился бы даже Уатт.</p><p>Привет, Хабр, на связи компания VK. Сегодня мы открываем новый сезон, посвящённый DIY. Под катом расскажем, чем этот сезон важен лично для нас, а также об условиях конкурса и призах.</p><p><strong>UPD. Конкурс закончился, результаты и таблицу участников можно посмотреть <a href="https://habr.com/ru/specials/757220/" rel="noopener noreferrer nofollow">по ссылке</a>.</strong></p> <a href="https://habr.com/ru/articles/743788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+        
+        <pubDate>Mon, 26 Jun 2023 12:56:12 GMT</pubDate>
+        <dc:creator>megapost</dc:creator>
+        <category><![CDATA[DIY или Сделай сам]]></category>
+        <category><![CDATA[diy-проекты]]></category><category><![CDATA[Сезон DIY]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Лучшие практики скриптования в Jira Server/Data Center]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/743376/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/743376/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Всем привет! Меня зовут Сергей Трошин, я администратор Atlassian в VKCO. Заметил, что в интернете мало концентрированной информации про написание автоматизаций на Groovy с помощью API Jira Java. Тема достаточно важная, так как ни одна серьёзная компания не обходится без сложных средств автоматизации бизнес-процессов. В большинстве случаев таким средством является плагин Scriptrunner от Adaptavist, именно на нём написаны скрипты, фрагменты из которых используются в этой статье. Но мы не будем зацикливаться на инструменте, позволяющим обращаться к API Jira Java, это не играет роли.</p><p></p> <a href="https://habr.com/ru/articles/743376/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Sat, 24 Jun 2023 18:40:30 GMT</pubDate>
+      <dc:creator>sergeyopypey</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Groovy & Grails]]></category>
+      <category><![CDATA[jira]]></category><category><![CDATA[scriptrunner]]></category><category><![CDATA[автоматизация]]></category><category><![CDATA[atlassian]]></category><category><![CDATA[лучшие практики]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Запахи технической документации]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/743324/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/743324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет! Я Марина Виноградова, технический писатель VK. Прочитав название этой статьи, вы подумаете: «Документация же не пахнет!» Это правда, если речь не о её бумажных копиях… Но почему тогда пахнет код? Запахи кода — это фигура речи, обозначающая признаки проблем в коде и необходимости рефакторинга. Запахи кода обращают внимание на недочёты в проектировании и говорят нам о низком качестве кода. Мы можем написать как код, так и документацию. Чистыми с первого раза они никогда не будут, нужно пропускать их через рецензирование или рефакторинг.</p><p>Рассмотрим, как основные запахи кода с ресурса Refactoring Guru (сейчас он запрещен на территории РФ) ложатся на документацию. Это лишь малая часть того, на что стоит обращать внимание при её разработке.</p><p></p> <a href="https://habr.com/ru/articles/743324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 23 Jun 2023 08:33:53 GMT</pubDate>
+      <dc:creator>Raccoon_sw</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Подготовка технической документации]]></category>
+      <category><![CDATA[документация]]></category><category><![CDATA[запахи кода]]></category><category><![CDATA[техническая документация]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Как превратить данные в продукт: выжать из данных максимум благодаря принципам продакт-менеджмента]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/742728/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/742728/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/u6/sz/df/u6szdf616kkx-iz7xvsueh9hjqu.png"><br>
+<br>
+Многие компании хотят, чтобы их технологии были не просто затратами, а конкурентными преимуществами. Это в том числе касается технологий работы с данными. Часто такое стремление выражается словами «Мы хотим воспринимать данные как продукт». Команда <a href="https://mcs.mail.ru/" rel="nofollow noopener noreferrer">VK Cloud</a> перевела статью, которая поможет применить принципы продакт-менеджмента к управлению дата-продуктами компании.<br> <a href="https://habr.com/ru/articles/742728/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 22 Jun 2023 10:42:00 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Управление продуктом]]></category>
+      <category>vk cloud</category><category>большие данные</category><category>Big Data</category><category>product management</category><category>данные как продукт</category>
+    </item>
+      <item>
+      <title><![CDATA[Gatekeeper в production: полезные практики и шаги, которые не стоит допускать]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/741648/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/741648/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/lv/zn/r0/lvznr0psi1bmx-k39jej-bw4oma.jpeg"><br>
+<br>
+Kubernetes, как и любая другая рабочая среда, не лишен уязвимостей. Поэтому наряду с развитием проектов в нем администраторы или DevOps-инженеры должны уделять внимание и безопасности использования кластеров. Для этого нужен надежный инструмент, который может работать с любыми политиками и валидировать действия клиентов в кластерах Kubernetes.<br> <a href="https://habr.com/ru/articles/741648/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 21 Jun 2023 09:11:39 GMT</pubDate>
+      <dc:creator>npoxopob</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[информационная безопасность]]></category><category><![CDATA[gatekeeper]]></category><category><![CDATA[OPA]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Зачем Data-инженеру Spark]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/742084/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/742084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет, Хабр, меня зовут <a href="https://habr.com/ru/users/shveenkov/"><u>Дима</u></a>. В последние пару лет занимаюсь аналитикой, отвечаю за данные в Почте <a href="http://Mail.ru">Mail.ru</a>. Развиваю аналитическое хранилище данных и инструменты для работы с ними. Мы плотно работаем со стеком Hadoop, Hive, Spark, Clickhouse и Kafka. Я хочу остановиться на некоторых аспектах работы с данными в Spark: как мы храним петабайты информации и как выполняем запросы к ним?</p><p>Прежде всего поделюсь своими практическими наблюдениями. Расскажу как в нашем хранилище мы превратили 7 петабайт в 0,5 петабайт, что позволило сэкономить годовой бюджет по закупке серверов. И также расскажу о ключевых проблемах с данными, знание о которых помогло бы вам построить своё классное хранилище без последующей переделки.</p><p></p> <a href="https://habr.com/ru/articles/742084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 20 Jun 2023 08:04:03 GMT</pubDate>
+      <dc:creator>shveenkov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Hadoop]]></category><category><![CDATA[Data Engineering]]></category>
+      <category><![CDATA[spark]]></category><category><![CDATA[hadoop]]></category><category><![CDATA[orc-файл]]></category><category><![CDATA[колоночные субд]]></category><category><![CDATA[clickhouse]]></category><category><![CDATA[activityschema]]></category><category><![CDATA[data modelling]]></category><category><![CDATA[ods]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Мобильная разработка в мае: дайджест новостей от RuStore]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/741708/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/741708/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p><em>Российский магазин приложений RuStore собирает самые интересные и важные новости, которые вы могли пропустить. В этом дайджесте — обновление </em>Flutter, <em>Android Studio и библиотеки Android Jetpack, а также аналитика по заработку на мобильных приложениях и включение монетизации самозанятых в нашем сторе.</em></p><p></p> <a href="https://habr.com/ru/articles/741708/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 15 Jun 2023 13:09:15 GMT</pubDate>
+      <dc:creator>RuStore</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка под Android]]></category><category><![CDATA[IT-компании]]></category>
+      <category><![CDATA[новости технологий]]></category><category><![CDATA[новости]]></category><category><![CDATA[мобильные приложения]]></category><category><![CDATA[мобильная разработка]]></category><category><![CDATA[kotlin]]></category><category><![CDATA[java]]></category><category><![CDATA[rustore]]></category>
+    </item>
+      <item>
+      <title><![CDATA[«Это ключ? Нет, кое-что получше»: будущее беспарольной аутентификации]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/741720/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/741720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Скорую «смерть» паролей предрекают уже больше 10 лет, их не любил даже Билл Гейтс. Однако мы и сейчас продолжаем использовать пароли настолько часто, что быстро отказаться от них не получится. Несмотря на это, впереди уже проглядывается будущее, в котором заходить в любой сервис можно будет, например, с помощью отпечатка пальца или скана лица. А пароли навсегда уйдут в прошлое. О том, насколько мы уже приблизились к этому времени, читайте ниже.</p><p></p> <a href="https://habr.com/ru/articles/741720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 15 Jun 2023 08:59:10 GMT</pubDate>
+      <dc:creator>govorovsky</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Информационная безопасность]]></category>
+      <category><![CDATA[authentication]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Форматы данных и файлов: руководство для архитекторов]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/741702/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/741702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/v_/6-/sa/v_6-sacnzz_cwaglg_3tcw-ecqo.jpeg"><br>
+<br>
+В мире данных происходит революция. Сегодня волна Open-Source-форматов данных, поднявшаяся благодаря развитию технологий, меняет привычное положение дел для всех участников экосистемы, от поставщиков до предприятий. Вы наверняка слышали о таких форматах, как Parquet, ORC, Avro, Arrow, Protobuf, Thrift и MessagePack. Команда <a href="https://mcs.mail.ru/" rel="nofollow noopener noreferrer">VK Cloud</a> перевела статью о том, что они собой представляют и какой из них лучше выбрать. <br> <a href="https://habr.com/ru/articles/741702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 15 Jun 2023 06:36:16 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category>vk cloud</category><category>Parquet</category><category>ORC</category><category>Avro</category><category>Arrow</category><category>Protobuf</category><category>Thrift и MessagePack</category><category>большие данные</category><category>микросервисы</category>
+    </item>
+      <item>
+      <title><![CDATA[Балансируем между консистентностью и доступностью в распределённой системе: опыт Tarantool]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/738616/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/738616/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Поговорим сегодня про выбор, перед которым встают разработчики всех распределённых систем: обеспечивать ли консистентность данных или доступность системы при различных внешних условиях —&nbsp; поломках, плановых отключениях узлов, — а также во время штатной эксплуатации. Теория нам даёт простые, но не всегда применимые на практике ответы: можно выбрать либо консистентность, либо доступность (теорема CAP), а когда проблем с сетью нет — то либо консистентность, либо низкие задержки (PACELC). За скобками остаётся вопрос о том, как делать этот выбор. Система как будто всегда должна быть CP или AP, а что происходит, если вдруг работающая CP-система должна начать вести себя как AP, или, наоборот, перейти обратно из AP в CP?</p><p></p> <a href="https://habr.com/ru/articles/738616/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 13 Jun 2023 11:03:25 GMT</pubDate>
+      <dc:creator>sergepetrenko</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Блог компании Конференции Олега Бунина (Онтико)]]></category><category><![CDATA[Администрирование баз данных]]></category><category><![CDATA[Распределённые системы]]></category><category><![CDATA[Tarantool]]></category>
+      <category><![CDATA[tarantool]]></category><category><![CDATA[cap-теорема]]></category><category><![CDATA[консистентность]]></category><category><![CDATA[доступность]]></category><category><![CDATA[репликация]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Почему для MLOps лучше выбирать Open Source, а не проприетарное ПО]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/735720/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/735720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/jb/ji/wg/jbjiwgjyiz6o3nqvqrvqjlvppo8.jpeg"><br>
+<br>
+Самому обеспечивать гибкость и контроль собственного ML-пайплайна — это важно. Команды по машинному обучению могут использовать проприетарные платформы или создавать собственные решения с помощью Open-Source-инструментов. Компании часто представляют проприетарные платформы как более мощные, эффективные и простые в использовании. Но в действительности они часто оказываются более сложными и менее мощными, чем их Open-Source-конкуренты.<br> <a href="https://habr.com/ru/articles/735720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 13 Jun 2023 08:55:18 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category>vk cloud</category><category>большие данные</category><category>ML</category><category>MLOps</category><category>open source</category>
+    </item>
+      <item>
+      <title><![CDATA[Из SQL в NoSQL: меняем парадигму запросов]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/739540/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/739540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Пользовательский опыт напрямую зависит от скорости выполнения запросов к данным. Мы привыкли, что SQL базы данных строят оптимальный план запроса за нас. В случае многих NoSQL баз данных, оптимизация запроса ложится на разработчика. Меня зовут Жора и вместе с <a class="mention" href="/users/yngvar_antonsson">@yngvar_antonsson</a> мы провели много времени за аудитом запросов у наших заказчиков. Сегодня мы расскажем про перфоманс, оптимизации и про тяжелые запросы на примере Tarantool. Будет интересно всем, кто уже работает или только собирается работать с Tarantool, а также тем, кто строит кластерные системы поверх своих БД.</p><p></p> <a href="https://habr.com/ru/articles/739540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 09 Jun 2023 08:00:12 GMT</pubDate>
+      <dc:creator>vaintrub</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Администрирование баз данных]]></category><category><![CDATA[Распределённые системы]]></category><category><![CDATA[Tarantool]]></category>
+      <category><![CDATA[tarantool]]></category><category><![CDATA[sql]]></category><category><![CDATA[nosql]]></category><category><![CDATA[lua]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Newbie Guide: разбираемся с MVCC на простых примерах]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/740108/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/740108/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/wd/fy/le/wdfylepkxmvn7uecp1eszmtkbii.png"><br>
+<br>
+Изоляция транзакций в СУБД — важный механизм, который позволяет пользователю получить согласованное состояние данных и работать с ними, не допуская конфликтов и снижения производительности. Организовать изоляцию нужного уровня можно несколькими способами, один из которых — MVCC (Multiversion Concurrency Control, многоверсионное управление конкурентным доступом).<br> <a href="https://habr.com/ru/articles/740108/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 08 Jun 2023 06:27:48 GMT</pubDate>
+      <dc:creator>alexlyapunov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Администрирование баз данных]]></category><category><![CDATA[Распределённые системы]]></category><category><![CDATA[Tarantool]]></category>
+      <category><![CDATA[Tarantool]]></category><category><![CDATA[MVCC]]></category><category><![CDATA[управление доступом]]></category><category><![CDATA[базы данных]]></category>
+    </item>
+      <item>
+      <title><![CDATA[От Black box к White box: как мы реализовали управление ресурсами кластеров Kubernetes]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/737288/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/737288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/vm/n3/vo/vmn3vohhopmqdiz2rrezbnqqfoc.png"><br>
+<br>
+При работе с Kubernetes в облаке через интерфейс платформы видно только кластеры и виртуальные машины, которые под ними крутятся. Это усложняет управление и мониторинг: пользователь просто не видит ресурсы внутри кластера и не знает, какая полезная нагрузка в нем обрабатывается. <br> <a href="https://habr.com/ru/articles/737288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 06 Jun 2023 08:39:23 GMT</pubDate>
+      <dc:creator>avvolkov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[управление ресурсами]]></category><category><![CDATA[RabbitMQ]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Продакты VS Разработчики: как недоверие и отказ от сотрудничества замедляют выход продукта]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/737162/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/737162/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/mh/s-/n4/mhs-n4nfyl3dxvqa3g8joar9ama.jpeg"><br>
+<br>
+Секрет успешного стартапа — в тесном сотрудничестве продуктовой команды и команды разработчиков. Но каждая команда по-своему представляет успех в работе и цели, которые нужно реализовать. Например, программисты хотят создать идеально масштабируемый и самый удобный для разработчиков продукт. А продуктовая команда хочет быстро проверять идеи на практике и внедрять функции, за которые клиент готов платить. У разработчиков своя карта технических решений, а у продактов — карта развития продукта. Оба плана никак не связаны друг с другом, из-за чего возникает путаница. <br> <a href="https://habr.com/ru/articles/737162/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 05 Jun 2023 09:58:44 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Управление разработкой]]></category><category><![CDATA[Управление проектами]]></category>
+      <category>vk cloud</category><category>управление проектами</category><category>управление разработкой</category><category>продакт-менеджмент</category>
+    </item>
+      <item>
+      <title><![CDATA[Tarantool 2.11 LTS: Рассказываем про новые возможности администрирования и безопасности]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/739134/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/739134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет. Меня зовут Владимир Салыкин, я директор по продукту Tarantool. Мы выпустили Tarantool 2.11 LTS — стабильный релиз с долгим циклом поддержки. Работа над ним началась в мае 2022 года, и сейчас релиз включает в себя более тысячи коммитов от 42 авторов. Мы все много работали над решением основных проблем с обслуживанием и администрированием, с которыми ранее сталкивались наши пользователи.&nbsp;</p><p>В этой статье мы хотим рассказать про ключевые фичи, которые были добавлены в релизе.</p><p></p> <a href="https://habr.com/ru/articles/739134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 02 Jun 2023 10:13:04 GMT</pubDate>
+      <dc:creator>Neraverin</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Администрирование баз данных]]></category><category><![CDATA[Распределённые системы]]></category><category><![CDATA[Tarantool]]></category>
+      <category><![CDATA[tarantool]]></category>
+    </item>
+      <item>
+      <title><![CDATA[The Walking Pod: основные стратегии атак изнутри кластера]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/738806/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/738806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/je/uc/fz/jeucfzkaabbgxomdzhzdb2iurta.jpeg"><br>
+<br>
+У Kubernetes много инструментов защиты поставляется прямо из коробки. Но все равно степень выстроенной защиты зависит от компетенции специалистов, которые ее настраивают, требований бизнеса и ресурсов, выделенных на безопасность. В итоге сложно гарантировать, что под видом «мирного и безобидного» контейнера не скрывается «зомби», который может нанести существенный урон.<br> <a href="https://habr.com/ru/articles/738806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Fri, 02 Jun 2023 07:21:04 GMT</pubDate>
+      <dc:creator>DeviJoe</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[Kubernetes]]></category><category><![CDATA[токены]]></category><category><![CDATA[защита]]></category><category><![CDATA[уязвимости]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Performance review, ачивки и погоня за повышением грейда — что может причинить боль сотруднику IT-компании?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/739174/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/739174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Можно ли в потоке рабочей рутины понять, что ты на самом деле хочешь от своей карьеры? Твоё развитие напрямую зависит от того, что хочет бизнес. Например, если он не заинтересован в автоматизации процессов тестирования, то вряд ли в команде будет появляться автоматизированное тестирование, и наоборот.</p><p>Вы сталкивались со «стадным чувством», когда из компании уходят коллеги, с которыми вы начинали свой путь в проекте, и вы невольно тоже начинаете смотреть вакансии, ходить по собеседованиям, присматривая новое рабочее место? Но с чем связан этот поиск? Это действительно ваше желание поменять проект или «все пошли, и я пошёл»?&nbsp;</p><p></p> <a href="https://habr.com/ru/articles/739174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 01 Jun 2023 12:53:59 GMT</pubDate>
+      <dc:creator>aqua_marina</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[выгорание]]></category><category><![CDATA[пирамида маслоу]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Кто такой погонщик нейросетей и как им стать: большая подборка ресурсов по ML для начинающих]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/738776/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/738776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Может ли искусственный интеллект прогнать нас от компьютеров и отправить работать на завод или собирать ягоды?</p><p>Большие языковые модели действительно меняют интеллектуальные профессии: взамен старых приходят новые, более разнообразные. И появляются люди, которых я называю погонщиками нейросетей — они могут обучать модели и ставить им задачи. В этой статье расскажу, почему считаю AI не соперником на рынке труда, а инструментом, который поможет нам стать более эффективными. А главное — поделюсь большой подборкой материалов для каждого, кто хочет сделать нейросети своими помощниками.&nbsp;</p><p></p> <a href="https://habr.com/ru/articles/738776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">300+ часов полезной инфы под катом</a>]]></description>
+      
+      <pubDate>Thu, 01 Jun 2023 08:51:01 GMT</pubDate>
+      <dc:creator>iSamsonov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[Искусственный интеллект]]></category><category><![CDATA[Лайфхаки для гиков]]></category>
+      <category><![CDATA[нейросети]]></category><category><![CDATA[chatgpt]]></category><category><![CDATA[ai]]></category><category><![CDATA[ml]]></category><category><![CDATA[midjourney]]></category><category><![CDATA[промт]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Трассировка стека вызовов в среде кооперативной многозадачности: стектрейсы, файберы, два ствола]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/735794/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/735794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/5n/s0/22/5ns0227gyickmm9qzsxebpab8hy.png"><br>
+<i>Персонаж с картинки — Трейсер из игры Overwatch</i><br>
+<br>
+Привет, Хабр! Для отладки и анализа производительности часто используется <a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D1%81%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B5%D0%BA%D0%B0" rel="nofollow noopener noreferrer">трассировка (сбор) стека вызовов</a> aka стектрейс. И если для трассировки стека различных потоков выполнения есть системные средства, то работа с асинхронными языками и фреймворками предполагает наличие отдельного контекста выполнения и стека вызовов для каждой единицы исполнения. В этой статье мы поговорим о <a href="https://en.wikipedia.org/wiki/Fiber_(computer_science)" rel="nofollow noopener noreferrer">файберах</a>. Они прозрачны с точки зрения операционной системы, что влечет за собой определенные сложности. Если трассировка стека вызовов активного файбера тривиальна (можно представить, что кооперативной многозадачности вообще нет), то как собирать стектрейс с неактивных файберов?<br> <a href="https://habr.com/ru/articles/735794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2023 07:57:33 GMT</pubDate>
+      <dc:creator>CuriousGeorgiy</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Assembler]]></category><category><![CDATA[Системное программирование]]></category><category><![CDATA[Отладка]]></category><category><![CDATA[Tarantool]]></category>
+      <category><![CDATA[Tarantool]]></category><category><![CDATA[трассировка]]></category><category><![CDATA[стектрейс]]></category><category><![CDATA[файберы]]></category>
+    </item>
+      <item>
+      <title><![CDATA[12 ошибок при публикации приложения в RuStore — и как их избежать]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/737864/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/737864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p><em>Модераторы RuStore ежедневно отсматривают сотни сервисов и игр. Руководительница команды модерации Екатерина Пономаренко рассказала, какие ошибки часто встречаются при публикации приложений, и предложила способы их устранения.</em></p><p></p> <a href="https://habr.com/ru/articles/737864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 26 May 2023 12:35:48 GMT</pubDate>
+      <dc:creator>RuStore</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка под Android]]></category>
+      <category><![CDATA[android]]></category><category><![CDATA[rustore]]></category><category><![CDATA[разработка мобильных приложений]]></category><category><![CDATA[мобильная разработка]]></category><category><![CDATA[публикация приложений]]></category><category><![CDATA[публикация приложения]]></category><category><![CDATA[разработка]]></category><category><![CDATA[магазин приложений]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Как выбирать технологии для Data Mesh — децентрализованного управления данными]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/737152/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/737152/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/_y/im/c4/_yimc4knyw-7jajz2r0356kk5mg.jpeg"><br>
+<br>
+В последнее время все чаще звучит вопрос: какую технологию использовать для Data Mesh — Databricks, AWS, Snowflake или Open-Source-решения? Команда <a href="https://mcs.mail.ru/" rel="nofollow noopener noreferrer">VK Cloud</a> перевела статью с подсказками о том, как выбирать подходящие технологии и оценивать их применение в вашем конкретном случае.<br> <a href="https://habr.com/ru/articles/737152/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Fri, 26 May 2023 12:00:22 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[DevOps]]></category>
+      <category>vk cloud</category><category>data mesh</category><category>озеро данных</category><category>большие данные</category><category>данные как продукт</category><category>self-service</category><category>open source</category>
+    </item>
+  
+    <item>
+        <title><![CDATA[VK Open: зачем разработчику открытые платформы]]></title>
+        <guid isPermaLink="true">https://habr.com/ru/specials/736906/</guid>
+        <link>https://habr.com/ru/specials/736906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+        <description><![CDATA[<p>Привет, Хабр! Современный IT-ландшафт трудно представить без открытых платформ, где разработчики создают, размещают и продвигают свои продукты. Айтишники могут свободно обращаться к наработкам и ресурсам больших компаний, чтобы меньшими средствами реализовывать свои идеи.&nbsp;</p><p>Тому, как грамотно использовать эти ресурсы, посвящена <a href="https://vk.ru/open" rel="noopener noreferrer nofollow"><u>конференция VK Open</u></a> для разработчиков открытых платформ. 3 июня создатели игр и мини-приложений поделятся историями успеха и набитыми шишками, а спикеры от VK расскажут о возможностях и инструментах открытых платформ с активной аудиторией более 45 млн человек в месяц.</p><p>Если ваша тропинка ведёт в сторону открытых платформ VK, по пути вам неизбежно встретятся несколько «дорожных камней», указывающих верное направление. В этой статье мы расскажем, что это за дорожные камни, у которых стоит остановиться и задуматься. Ну и заодно — о наших открытых платформах в целом.</p><p></p> <a href="https://habr.com/ru/articles/736906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Путь в 1000 ли</a>]]></description>
+        
+        <pubDate>Wed, 24 May 2023 08:28:28 GMT</pubDate>
+        <dc:creator>megapost</dc:creator>
+        <category><![CDATA[Программирование]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Монетизация мобильных приложений]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+        <category><![CDATA[мобильные приложения]]></category><category><![CDATA[vk mini apps]]></category><category><![CDATA[VK Open]]></category><category><![CDATA[открытые платформы]]></category><category><![CDATA[мини-приложения]]></category><category><![CDATA[монетизация]]></category><category><![CDATA[монетизация игр]]></category><category><![CDATA[монетизация мобильных приложений]]></category><category><![CDATA[трафик]]></category><category><![CDATA[трафик из социальных сетей]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Blur Behind: История провалов на разных ОС]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/735716/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/735716/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/dj/if/xx/djifxxayoibafqtgg_a7y5vbwas.jpeg"><br>
+<br>
+Привет, Хабр! Меня зовут Михаил Полукаров, я занимаюсь разработкой Desktop-версии корпоративного супераппа в команде<a href="https://teams.vk.com/" rel="nofollow noopener noreferrer"> VK Teams</a>. Я уже писал на Хабр две статьи про использование масок, создание сложных многослойных и полупрозрачных окон и о своем опыте реализации красивых спецэффектов с использованием Qt Framework: вот <a href="https://habr.com/ru/company/vk/blog/691200/">первая</a> и <a href="https://habr.com/ru/company/vk/blog/701382/">вторая</a>. По просьбам читателей я решил закончить этот небольшой цикл статей описанием неудач, с которыми мне пришлось столкнуться при реализации спецэффекта Blur Behind для разных ОС.<br> <a href="https://habr.com/ru/articles/735716/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 23 May 2023 09:12:59 GMT</pubDate>
+      <dc:creator>mpolukarov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[C++]]></category><category><![CDATA[Qt]]></category>
+      <category><![CDATA[vk teams]]></category><category><![CDATA[С++]]></category><category><![CDATA[Qt]]></category><category><![CDATA[Blur Behind]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Молекулярный драйвер: как мы запускали Molecule Delegated Driver в облаке VK Cloud]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/735744/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/735744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Подход «инфраструктура как код» упрощает создание и управление инфраструктурой, но это всё ещё код, и относится к нему надо как к любому коду. А значит, нам нужно внедрять практики SDLC. О реализации одной из них и будет эта статья. А точнее, про тестирование инфраструктурного кода.&nbsp;</p><p>Мы пользуемся Docker-провайдером, но это накладывает некоторые ограничения на запуск. Например, там нельзя редактировать файлы hostname, нельзя поставить нормальный файрвол и т. д. Эти ограничения иногда довольно болезненны, когда то же самое отправляешь в эксплуатационную среду, которая хоть и чуть-чуть, но отличается. Мы в проекте используем Ansible, и перед настройкой production-окружение хотим протестировать наши playbook. И для этого используем Molecule совместно с TestInfra. Как? Сейчас расскажем.</p><p></p> <a href="https://habr.com/ru/articles/735744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Mon, 22 May 2023 12:22:48 GMT</pubDate>
+      <dc:creator>silabeer</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Облачные сервисы]]></category>
+      <category><![CDATA[ansible]]></category><category><![CDATA[molecule]]></category><category><![CDATA[iac]]></category><category><![CDATA[vkcloud]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Мобильная разработка в апреле: дайджест новостей от RuStore]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/736360/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/736360/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p><em>Российский магазин приложений RuStore продолжает серию дайджестов о рынке мобильной разработки — мы собираем самые интересные и важные новости, которые вы могли пропустить.</em></p><p></p> <a href="https://habr.com/ru/articles/736360/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Mon, 22 May 2023 09:10:50 GMT</pubDate>
+      <dc:creator>RuStore</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка под Android]]></category><category><![CDATA[IT-компании]]></category>
+      <category><![CDATA[новости технологий]]></category><category><![CDATA[новости]]></category><category><![CDATA[мобильные приложения]]></category><category><![CDATA[мобильная разработка]]></category><category><![CDATA[kotlin]]></category><category><![CDATA[java]]></category><category><![CDATA[android]]></category><category><![CDATA[rustore]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как построить систему геоаналитики с применением ML]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/734102/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/734102/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/_y/yt/ls/_yytlseswnmoyyhnucpfkubadco.jpeg"><br>
+<br>
+Геоаналитика помогает бизнесу принимать решения: где открыть магазин, построить отель или возвести новостройку с учетом доступности и популярности локации, наличия конкурентов и сотен других факторов. Решать подобные аналитические задачи с большим количеством значимых признаков помогает машинное обучение. В этой статье мы рассмотрим примеры работы сервисов геоаналитики VK Predict. Выясним, какие модели машинного обучения используются при построении таких систем и из каких этапов состоит разработка продукта с возможностями геоаналитики.<br>
+<br>
+<i>Статья подготовлена на основе <a href="https://vk.com/video-164978780_456239231" rel="nofollow noopener noreferrer">вебинара</a> команд VK Predict и VK Cloud. <br>
+</i> <a href="https://habr.com/ru/articles/734102/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 May 2023 05:51:30 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[большие данные]]></category><category><![CDATA[ML]]></category><category><![CDATA[MLOps]]></category><category><![CDATA[open source]]></category><category><![CDATA[геоаналитика]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как провести лайвкодинг так, чтобы кандидат хотел к вам вернуться даже после провала]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/736268/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/736268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет, хабровчане! Многие из нас дорастают до момента, когда приходится проводить собеседования для поиска нового сотрудника в команду или стороннего исполнителя. Вне зависимости от направления (бэкенд, фронтенд, тестирование, мобильная разработка) интервью строится на основе ограниченного набора инструментов: скринингов, тестовых заданий, лайвкодинга и теоретических секций. В статье расскажу про типовые ошибки интервьюеров и лучшие практики, поделюсь своим планом собеседования и подробно остановлюсь на одном из инструментов — лайвкодинге.</p><p>Перед тем, как начать, буквально пару слов о себе. Меня зовут Роман Лунев, я руковожу отделом бэкенд-разработки в команде развития суперприложения  ВКонтакте. Разработкой занимаюсь более 10 лет, а собеседования провожу уже порядка 6–7 лет. За это время я много раз успешно заваливал, а потом, с опытом, и успешно проводил собеседования как интервьюер. А ещё насмотрелся на косяки коллег, потому что время от времени погружал в этот процесс интервьюеров-новичков. А это даёт очень много пищи для размышлений. Расскажу про свой план собеседования.</p><p></p> <a href="https://habr.com/ru/articles/736268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 19 May 2023 12:37:07 GMT</pubDate>
+      <dc:creator>lunev_roman</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Программирование]]></category>
+      <category><![CDATA[Лайвкодинг]]></category><category><![CDATA[собеседование]]></category><category><![CDATA[собеседование в it]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как мы учили Почту события в календарь добавлять. Часть 2]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/734674/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/734674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Привет, Хабр! С вами Дима из команды Машинного обучения Почты <a href="http://Mail.ru">Mail.ru</a>. Сегодня я продолжу рассказывать о том, как мы автоматизировали добавление событий из важных писем в календарь.</p><p>В <a href="https://habr.com/ru/companies/vk/articles/729126/">первой части статьи</a> я рассказал, как происходили проработка и анализ идей по этой фиче, исследования пользователей, и вкратце о том, как выглядит первый собранный прототип для проверки гипотез. Во второй части вас ждет продолжение этой истории, а именно то, как дорабатывали прототип, масштабировали его, как готовили данные, какие ML-модели использовали, и какие технические и продуктовые результаты получили.</p><p></p> <a href="https://habr.com/ru/articles/734674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 19 May 2023 08:18:22 GMT</pubDate>
+      <dc:creator>dparp</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category><![CDATA[машинное обучение]]></category><category><![CDATA[проектирование систем]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Реализация двустороннего A* на двух потоках]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/731656/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/731656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>На Хабре можно найти немало статей, посвящённых оптимизациям поиска кратчайшего пути на графе. Я расскажу ещё про еще один подход. Речь пойдёт о распараллеливании алгоритма A* и исполнении его на двух потоках, а также о сложностях, с которыми я столкнулся при реализации, и их преодолении.</p><p></p> <a href="https://habr.com/ru/articles/731656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Mon, 15 May 2023 09:13:20 GMT</pubDate>
+      <dc:creator>BykoIanko</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Алгоритмы]]></category>
+      <category><![CDATA[дейкстра]]></category><category><![CDATA[routing]]></category><category><![CDATA[прокладка маршрута]]></category><category><![CDATA[теория графов]]></category><category><![CDATA[graph theory]]></category><category><![CDATA[кратчайший путь]]></category><category><![CDATA[maps.me]]></category><category><![CDATA[многопоточность]]></category><category><![CDATA[a*]]></category><category><![CDATA[а*]]></category>
+    </item>
+      <item>
+      <title><![CDATA[«Что нам стоит „Капсулу“ построить?» — как мы создавали VK Капсулу Нео]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/733350/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/733350/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Многие подсознательно воспринимают умные колонки как что-то несложное в разработке. «<em>Ну правда, что там такого: динамик, микрофон, светодиоды да Wi-Fi</em>». Мы в VK захотели создать инновационный продукт, и в итоге прошли интересный путь от идеи до выхода на рынок нашей малышки для всех и каждого — VK Капсулы Нео. С виду вполне типичная умная колонка таит в себе технологические решения, которые в будущем постараются повторить в своих продуктах другие компании.&nbsp;</p><p>Меня зовут Борис Каганович, я директор по разработке и производству умных устройств в VK. В этой статье я расскажу о том, как появилась идея создать колонку и какой путь мы прошли от идеи продукта до его реализации. </p><p></p> <a href="https://habr.com/ru/articles/733350/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 11 May 2023 08:20:40 GMT</pubDate>
+      <dc:creator>Boris_Kaganovich</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Производство и разработка электроники]]></category><category><![CDATA[Гаджеты]]></category><category><![CDATA[Голосовые интерфейсы]]></category>
+      <category><![CDATA[vk капсула нео]]></category><category><![CDATA[vk капсула]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Как структурировать проекты машинного обучения с помощью GitHub и VS Code: полная инструкция с настройками и шаблонами]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/733000/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/733000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/0d/yi/ie/0dyiie6nz6sacyaixui7vfdiutu.jpeg"><br>
+<br>
+Хорошо продуманный процесс структурирования проектов машинного обучения поможет быстро создавать новые репозитории GitHub и с самого начала ориентироваться на элегантную программную архитектуру. Команда <a href="https://mcs.mail.ru/?utm_source=habr&amp;utm_medium=media&amp;utm_campaign=github-vs-code" rel="nofollow noopener noreferrer">VK Cloud</a> перевела статью о том, как организовать файлы в проектах машинного обучения, используя VS Code. Шаблон для создания проектов машинного обучения <a href="https://github.com/bstollnitz/ml-template" rel="nofollow noopener noreferrer">можно скачать на GitHub</a>.<br> <a href="https://habr.com/ru/articles/733000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 10 May 2023 12:10:57 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[GitHub]]></category><category><![CDATA[Машинное обучение]]></category>
+      <category>vk cloud</category><category>ML</category><category>Machine learning</category><category>GitHub</category><category>VS Code</category>
+    </item>
+      <item>
+      <title><![CDATA[Как мы разрабатываем SDK для RuStore]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/733434/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/733434/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>2022 год оставил разработчиков из России без возможности заработка в привычных сторах, а также дал толчок развитию альтернативных способов монетизации приложений. Менеджер проекта команды SDK магазина приложений RuStore Александр Лукашенко рассказал, как удаётся разрабатывать инструменты для оплаты, push-уведомлений, получения оценок и отзывов внутри российского магазина приложений.</p><p></p> <a href="https://habr.com/ru/articles/733434/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 05 May 2023 16:10:00 GMT</pubDate>
+      <dc:creator>RuStore</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка под Android]]></category><category><![CDATA[IT-компании]]></category>
+      <category><![CDATA[rustore]]></category><category><![CDATA[sdk]]></category><category><![CDATA[разработка]]></category><category><![CDATA[мобильная разработка]]></category><category><![CDATA[android]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Чем раньше, тем лучше: сдвигаем тестирование в начало разработки в среде Kubernetes]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/732996/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/732996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/tq/zt/oq/tqztoqjke7wnnzmp6ayug8fy8cm.jpeg"><br>
+<br>
+Чаще всего продукты тестируют ближе к концу жизненного цикла разработки. Однако существует концепция Shift-left testing, принципиально изменяющая подход к тестированию. Команда<a href="https://mcs.mail.ru/?utm_source=habr&amp;utm_medium=media&amp;utm_campaign=shift-left-testing" rel="nofollow noopener noreferrer"> VK Cloud </a>перевела статью о применении концепции Shift-left testing при разработке с использованием Kubernetes, а также о некоторых стратегиях реализации этого подхода в микросервисной среде.<br> <a href="https://habr.com/ru/articles/732996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 03 May 2023 09:38:54 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Тестирование IT-систем]]></category><category><![CDATA[Тестирование веб-сервисов]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
+      <category>vk cloud</category><category>k8s</category><category>kubernetes</category><category>тестирование</category><category>микросервисы</category><category>автоматизация тестирования</category>
+    </item>
+      <item>
+      <title><![CDATA[3D-принтер на прокачку]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/732068/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/732068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Всем привет! Меня зовут Влад, и я <s>алкоголик</s> самодельщик. Сегодня мы поговорим про доработку популярного 3Д принтера Flying Bear Ghost 5. Я знаю, что уже вышла шестая версия медведя, но я начал заниматься этим проектом еще до 24 февраля 2022 года.&nbsp;</p><p><em>Эта статья — продолжение нашей серии публикаций по следам DIY-митапа в офисе VK. Предыдущая статья.</em></p><p></p> <a href="https://habr.com/ru/articles/732068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 02 May 2023 14:38:29 GMT</pubDate>
+      <dc:creator>bagrusss</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[3D-принтеры]]></category><category><![CDATA[DIY или Сделай сам]]></category>
+      <category><![CDATA[3d-печать]]></category><category><![CDATA[3d-принтер]]></category><category><![CDATA[flying bear]]></category><category><![CDATA[flying bear ghost 5]]></category><category><![CDATA[diy]]></category><category><![CDATA[nema 17]]></category><category><![CDATA[E3DV6]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как прошёл чемпионат RuCTF глазами победителей]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/732774/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/732774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Всем привет! На днях закончился пятнадцатый сезон студенческого чемпионата по кибербезопасности RuCTF 2023, который активно поддерживала VK. В чём суть соревнования: в начале игры команды получают идентичные серверы с предустановленным набором уязвимых сервисов. Задача участников — найти уязвимости, закрыть их у себя и воспользоваться ими для получения приватной информации (флагов) у соперников. За процессом игры непрерывно следит проверяющая система жюри, регулярно помещая новые флаги на серверы команд. Кроме того, система принимает от команд флаги, захваченные у соперников.</p><p></p> <a href="https://habr.com/ru/articles/732774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 02 May 2023 10:32:32 GMT</pubDate>
+      <dc:creator>lperovskaya</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[CTF]]></category>
+      <category><![CDATA[ctf]]></category><category><![CDATA[ructf]]></category>
+    </item>
+  
+    <item>
+      <title><![CDATA[[Перевод] Как настроить мониторинг и оповещения на Nginx ingress в Kubernetes]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/729796/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/729796/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/9c/pp/sx/9cppsxvgyhmka6-8xqgner_mdgo.jpeg"><br>
+<br>
+Команда <a href="https://mcs.mail.ru/?utm_source=habr&amp;utm_medium=media&amp;utm_campaign=nginx-ingress-kubernetes" rel="nofollow noopener noreferrer">VK Cloud</a> перевела пошаговую инструкцию о том, как установить и сконфигурировать ingress-nginx, Prometheus и Grafana, а также настроить оповещения для ключевых метрик Ingress. Для работы понадобится кластер Kubernetes и Helm v3.<br> <a href="https://habr.com/ru/articles/729796/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 26 Apr 2023 07:57:56 GMT</pubDate>
+      <dc:creator>NigrumKross</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
+      <category>vk cloud</category><category>k8s</category><category>kubernetes</category><category>мониторинг</category><category>оповещения</category><category>алертинг</category><category>Nginx</category><category>ingress</category><category>Prometheus</category><category>Grafana</category>
+    </item>
+      <item>
+      <title><![CDATA[Практический гайд по использованию модуля метрик Tarantool]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/731358/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/731358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Всем привет! Меня зовут Александр Кленов, и я работаю в&nbsp;Tarantool. Любой серьезный продукт в&nbsp;промышленной эксплуатации требует инструментов observability. «Проверка пульса» продукта стоит на&nbsp;всем известных китах: логирование, трейсинг, мониторинг.</p><p>Мне всегда&nbsp;было интересно, как&nbsp;устроена внутренняя кухня больших компаний, как&nbsp;и какими инструментами observability пользуются сотрудники больших проектов. Сегодня я поделюсь руководством по&nbsp;практическому применению модуля метрик Tarantool, которое подготовил для&nbsp;своих коллег. Статья будет интересна как&nbsp;тем, кто использует Taranool в&nbsp;своей практике, так и всем, кто отвечает за&nbsp;observability и мониторинг в&nbsp;своих проектах. Приглашаю под&nbsp;кат!</p><p></p> <a href="https://habr.com/ru/articles/731358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 25 Apr 2023 12:02:56 GMT</pubDate>
+      <dc:creator>1div0</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Администрирование баз данных]]></category><category><![CDATA[Распределённые системы]]></category><category><![CDATA[Tarantool]]></category>
+      <category><![CDATA[tarantool]]></category><category><![CDATA[metrics]]></category><category><![CDATA[observability]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Мобильная разработка: дайджест новостей от RuStore]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/730586/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/730586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p><em>Российский магазин приложений RuStore начинает серию дайджестов о рынке мобильной разработки. Каждый месяц мы будем собирать самые интересные и важные новости, которые вы могли пропустить.</em></p><p></p> <a href="https://habr.com/ru/articles/730586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 21 Apr 2023 07:56:23 GMT</pubDate>
+      <dc:creator>RuStore</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Тестирование мобильных приложений]]></category>
+      <category><![CDATA[новости технологий]]></category><category><![CDATA[новости]]></category><category><![CDATA[мобильные приложения]]></category><category><![CDATA[мобильная разработка]]></category><category><![CDATA[kotlin]]></category><category><![CDATA[java]]></category><category><![CDATA[android]]></category><category><![CDATA[rustore]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Микрофронтенды — универсальное решение всех проблем или просто удобный подход?]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/730504/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/730504/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Сейчас понятие «микрофронтенды» встречается довольно часто, но что это такое и какие задачи они решают? Зачем нам микрофронтенды, если есть микросервисы или монолит? И стоит ли тащить микрофронтенды в свой проект только потому, что это модно? Расскажу об этом, а также о трёх способах организации микрофронтендов: Podium, Single-SPA и Module Federation. Какой среди них лучший и нашли ли разработчики в нём панацею? Об этом читайте под катом.</p><p></p> <a href="https://habr.com/ru/articles/730504/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 20 Apr 2023 14:58:43 GMT</pubDate>
+      <dc:creator>severenit</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Блог компании Конференции Олега Бунина (Онтико)]]></category><category><![CDATA[Веб-разработка]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Программирование]]></category>
+      <category><![CDATA[фронтенд]]></category><category><![CDATA[фронтенд-разработка]]></category><category><![CDATA[микросервисы]]></category><category><![CDATA[монолит]]></category><category><![CDATA[микрофронтенды]]></category><category><![CDATA[microfrontends]]></category><category><![CDATA[microservices]]></category><category><![CDATA[monolith]]></category><category><![CDATA[frontend]]></category><category><![CDATA[frontendconf]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Стандарты безопасности в Kubernetes (обзор и видео доклада)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/730158/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/730158/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>С этим докладом я выступал на недавней конференции&nbsp;VK Kubernetes Conf 2023. В нем рассказывается, какие правила безопасности в Kubernetes действительно необходимы, и разбираются пять шагов, которые помогают улучшить безопасность.</p> <a href="https://habr.com/ru/articles/730158/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 20 Apr 2023 08:58:31 GMT</pubDate>
+      <dc:creator>konstantin_axenov</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Блог компании Флант]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[Kubernetes]]></category>
+      <category><![CDATA[kubernetes]]></category><category><![CDATA[безопасность]]></category><category><![CDATA[devops]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Строим культуру офбординга в команде]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/729990/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/729990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Часто, став руководителем, человек воодушевляется: сложные задачи и новые цели кажутся по плечу, хочется всех заонбордить, пробовать лучшие практики и создать классную атмосферу в своей команде. В реальности всё иначе, и большинство негативных моментов связано с темой увольнения людей. Многие тимлиды откладывают сложные решения на потом или предпочитают считать офбординг&nbsp;не своей задачей, что заниматься этим должен кто-то другой. Но увольнение — это целый процесс с последствиями для всей команды, проекта и бизнеса.&nbsp;Последние исследования говорят, что стоимость замены одного специалиста на рынке труда — это от 40 до 200 % годового фонда оплаты труда сотрудника. Число, достойное внимания. Поэтому каждому тимлиду и руководителю важно учиться управлять датой увольнения своих людей.</p><p>За основу этой статьи взято выступление Веры Маневич, HRD в Одноклассниках. Она больше 18 лет в HR на различных ролях пипл-менеджмента. Преподаёт в MBA, ментор на getmentor.dev.&nbsp;Мы рассмотрим разные грани работы с офбордингом и увидим его глазами тимлида. Разберём, почему люди уходят, можно ли управлять датой увольнения, как построить культуру офбординга и говорить на эту тему с командой.</p><p></p> <a href="https://habr.com/ru/articles/729990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 19 Apr 2023 06:40:49 GMT</pubDate>
+      <dc:creator>VeraManevich</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Блог компании Конференции Олега Бунина (Онтико)]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[увольнение сотрудников]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как мы учили Почту события в календарь добавлять. Часть 1]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/729126/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/729126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Сегодня очень любят использовать слово «умный»: умный дом, умный телевизор, умный пылесос. Хотя чаще всего речь идёт не о какой-то мифической “умности” прибора или приложения, а об автоматизации каких-то рутинных действий. Вот и мы <a href="https://vk.company/ru/press/releases/11440/">сделали «умным»</a> наш Календарь: автоматизировали добавление в него событий на основе важных входящих писем. Я - Дима, тимлид команды машинного обучения Почты <a href="http://Mail.ru">Mail.ru</a>, и на примере этого функционала хочу рассказать о том, какой путь проходит фича от рождения до передачи в эксплуатацию.</p><p></p> <a href="https://habr.com/ru/articles/729126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 18 Apr 2023 11:53:20 GMT</pubDate>
+      <dc:creator>dparp</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Анализ и проектирование систем]]></category>
+      <category><![CDATA[проектирование систем]]></category><category><![CDATA[прототипирование]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Secure by Design: с чего начинается безопасность продукта]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/729516/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/729516/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Можно ли при идеальном коде и защищённой инфраструктуре иметь серьёзные проблемы в безопасности продукта? Защитят ли нас полностью современные средства инфраструктурной защиты, анализа кода? А что, если нет? Давайте подумаем об этом на отвлечённых примерах из практики.</p><p>Привет, Хабр! Меня зовут Игорь Игнатьев, я директор департамента защиты приложений в VK. Сегодня расскажу о подходе к построению безопасных продуктов, и это будет моя первая статья из цикла про принципы Secure by Design.</p><p></p> <a href="https://habr.com/ru/articles/729516/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 18 Apr 2023 08:19:17 GMT</pubDate>
+      <dc:creator>Bksz</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Информационная безопасность]]></category>
+      <category><![CDATA[ssdlc]]></category><category><![CDATA[secure by design]]></category><category><![CDATA[appsec]]></category>
+    </item>
+      <item>
+      <title><![CDATA[История развития мейкерского движения]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/729122/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/729122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Когда-то у нас была отличная традиция: проводить в офисе большие DIY-митапы. Потом пришлось на несколько лет прерваться из-за всяких неурядиц. И вот после долгого перерыва мы провели новый митап, на котором было много отличных докладов. По самым лучшим мы сделаем публикации, и начнём с «<strong>Истории развития мейкерского движения</strong>». Об этом рассказывает Алексей Щеколдин, продукт-менеджер в «Сферум», один из основателей Фаблаба Университета ИТМО и детского технопарка ITMO.KIDS, бывший руководитель направления Generation IF в компании InvestFuture, которая многим известна по одноименному YouTube-каналу. </p><p></p> <a href="https://habr.com/ru/articles/729122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 14 Apr 2023 11:14:12 GMT</pubDate>
+      <dc:creator>Shchekoldin</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[DIY или Сделай сам]]></category>
+      <category><![CDATA[diy]]></category><category><![CDATA[makers]]></category><category><![CDATA[hack]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как добиться эталонного качества передачи голоса через интернет]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/728200/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/728200/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Голосовая связь с нами давно: первые телефоны изобрели ещё в конце 19-го века, а мобильные — в середине 20-го. В начале 2000-х начал набирать популярность ещё один способ связи — интернет-звонки. Идея по сути та же — общаться на расстоянии, только ещё проще и дешевле. Плюс онлайн-звонки дают много дополнительных функций: от возможности видеть собеседников по видеосвязи до формата, когда вы вместе смотрите кино, находясь в разных точках планеты. Технологии идут вперёд, и тем не менее мы снова и снова переспрашиваем: «Слышно меня?».</p><p>Разберёмся в статье с вопросами качества передачи голоса в звонках. Например, почему может быть плохо слышно того, кто звонит из автомобиля? В чём особенность использования динамиков вместо наушников? Что происходит со звуком участника звонка, если у него плохой интернет? Можно ли измерить качество звука в цифрах? Ответы под катом.</p><p></p> <a href="https://habr.com/ru/articles/728200/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 13 Apr 2023 12:37:20 GMT</pubDate>
+      <dc:creator>adshpagin</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Блог компании Конференции Олега Бунина (Онтико)]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[Звук]]></category>
+      <category><![CDATA[качество звука]]></category><category><![CDATA[mos]]></category><category><![CDATA[вконтакте]]></category><category><![CDATA[vk звонки]]></category><category><![CDATA[fec]]></category><category><![CDATA[nack]]></category><category><![CDATA[webrtc]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Мышиные гонки: что делать со скоростью скролла PC-мыши на MacOS]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/726604/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/726604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/nc/f0/xi/ncf0xijcntgkerz91qypb6fpilc.jpeg"><br>
+<br>
+Привет, Хабр! Меня зовут Евгений Гудков. Я работаю в компании VK, где мы дружной командой делаем VK Teams — классный (не реклама) корпоративный мессенджер.<br>
+<br>
+Но сегодня не об этом. Сегодня я хочу сыграть с тобой в одну игру…<br>
+<br>
+Представим, что вышла новая популярная игра Scroll Master. Ее суть — проскроллить как можно больше контента за отведенное время. Разработчики сделали игру при помощи Qt и раздали на все основные Desktop-платформы. Правила игры не запрещают использовать тачпады, Magic Mouse и тому подобное. Также правилами не запрещается менять системную скорость прокрутки. Используй все, что можешь, чтобы стать лучшим! <br> <a href="https://habr.com/ru/articles/726604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 05 Apr 2023 07:54:28 GMT</pubDate>
+      <dc:creator>GendOSIC</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[C++]]></category><category><![CDATA[Qt]]></category>
+      <category><![CDATA[vk cloud]]></category><category><![CDATA[MacOS]]></category><category><![CDATA[pc-мышь]]></category><category><![CDATA[Qt Creator]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Спортивные бобры и NFT из первого граффити ВКонтакте — какие проекты создали участники первого Web3-хакатона VK NFT]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/726534/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/726534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p><br>Пламенный хабропривет! Это лонгрид от двух Иванов из VK: Ивана Расторгуева, который знает всё про платформу VK Mini Apps, и Ивана Бойченко, который развивает направление NFT ВКонтакте. Недавно мы провели первый собственный Web3 <a href="https://habr.com/ru/company/vk/news/t/713718/"><u>онлайн-хакатон VK NFT × Definition</u></a> и хотим поделиться с вами его результатами и своими планами развития NFT-технологий в наших сервисах.&nbsp;</p><p></p> <a href="https://habr.com/ru/articles/726534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Mon, 03 Apr 2023 10:05:08 GMT</pubDate>
+      <dc:creator>vkdevrel</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Криптография]]></category><category><![CDATA[Хакатоны]]></category><category><![CDATA[Распределённые системы]]></category><category><![CDATA[Социальные сети и сообщества]]></category>
+      <category><![CDATA[nft]]></category><category><![CDATA[vk]]></category><category><![CDATA[вконтакте]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Фотки по-красоте: как сделать сетку предпросмотра изображений]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/726408/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/726408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Всем привет. Меня зовут Марат Исаев, я фронтенд-разработчик ВКонтакте, разрабатываю решения для VK Мессенджера. В этом посте я хочу рассказать о том, как сделать сетку предпросмотра фотографий. </p><p></p> <a href="https://habr.com/ru/articles/726408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Mon, 03 Apr 2023 08:42:07 GMT</pubDate>
+      <dc:creator>Marat1403</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Интерфейсы]]></category><category><![CDATA[Usability]]></category>
+      <category><![CDATA[фронтенд]]></category><category><![CDATA[превью фотографий]]></category>
+    </item>
+      <item>
+      <title><![CDATA[Как наладить код-ревью, если ты совсем один]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/companies/vk/articles/726082/</guid>
+      <link>https://habr.com/ru/companies/vk/articles/726082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog</link>
+      <description><![CDATA[<p>Код-ревью – это хорошо. Оно помогает улучшить качество кода, наладить сотрудничество в команде, познакомить каждого разработчика с самыми отдаленными уголками кодовой базы, до которых он бы не скоро добрался, делая только назначенные ему задачи. Из всего того, чем обычно занимаются программисты, именно в код-ревью лучше всего видна справедливость поговорки «Одна голова – хорошо, а две – лучше». </p><p>А как быть программисту, работающему в одиночку? Ведь голова у него – всего одна, если конечно он не мутант. И именно этой головой разработчик пишет код – который потом неплохо бы поревьювить. Как отревьювить свой же код, если ты сам его автор,э и просто физически не можешь взглянуть на него глазами другого человека? Казалось бы, в таком случае выполнить код-ревью невозможно, это – неразрешимая проблема, тупик!</p> <a href="https://habr.com/ru/articles/726082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=corporate_blog#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Sat, 01 Apr 2023 17:00:22 GMT</pubDate>
+      <dc:creator>sunman</dc:creator>
+      <category><![CDATA[Блог компании VK]]></category>
+      <category><![CDATA[ревью кода]]></category><category><![CDATA[программирование]]></category>
+    </item>
+  </channel>
+</rss>
